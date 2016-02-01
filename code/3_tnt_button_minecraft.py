@@ -8,13 +8,13 @@ mc = minecraft.Minecraft.create()
 import mcpi.block as block
 
 GPIO.setmode(GPIO.BCM)
-GPIO.setup(2, GPIO.IN, pull_up_down=GPIO.PUD_UP)
+GPIO.setup(25, GPIO.IN, pull_up_down=GPIO.PUD_UP)
 
 while True:
-    input_state = GPIO.input(2)
+    input_state = GPIO.input(25)
     if input_state == False:
         print "Button Pressed"
-        #mc.postToChat(„TNT“)
+        mc.postToChat("TNT")
         pos = mc.player.getPos()
         x = pos.x
         y = pos.y
