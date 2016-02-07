@@ -41,18 +41,6 @@ Einkaufsliste (Affiliate Links): hier alles als [Amazon Wunschliste] (http://www
 * WLAN Stick (7,03€)(http://www.amazon.de/gp/product/B007JWB1N2/ref=as_li_tl? ie=UTF8&camp=1638&creative=19454&creativeASIN=B007JWB1N2&linkCode=as2&tag=andrkopp-21)*Maus (5,99 €)(http://www.amazon.de/gp/product/B00YMINV8Y/ref=as_li_tl? ie=UTF8&camp=1638&creative=19454&creativeASIN=B00YMINV8Y&linkCode=as2&tag=andrkopp-21)* Extra SD Karte (5,49€) (http://www.amazon.de/gp/product/B008RDCCFS/ref=as_li_tl? ie=UTF8&camp=1638&creative=19454&creativeASIN=B008RDCCFS&linkCode=as2&tag=andrkopp-21)* USB Stick für Backup - gebraucht von zu HauseGRAND TOTAL ohne Accessory: **132,88 €**      
 GRAND TOTAL mit Accessory : **154,43 €**
 
-###Weitere Kurs
-
-* Roboter Workshop
-* Case Design - 3D Druck 
-
-
-##Pi Club
-
-Wenn du in München wohnst und die der Grundlagen Kurs gefallen hast, kannst du immer Freitags von 17 bis 19 Uhr in den Pi Club kommen.  
-
-
-
 
 ##LINKS 
 * [Ressources in Englisch auf der Raspberry Pi Webseite] (https://www.raspberrypi.org/resources/)

@@ -12,13 +12,33 @@ Hier sind die Kursmaterialien zum "Minecraft Hacking" Raspberry Pi Gundlagen Wor
 
 ##Workshop Ziele
 
-* 
-* Verstehe wie Minecraft Scratch Funktioniert
+* Verstehe was ein Raspberry Pi ist
+* Verstehe Programmierprinzipen wie "if do" und eine Schleife und Variablen 
+* Verstehe wie Minecraft mit Scratch zu hacken ist
+* Verstehe wie Music Coding mit Sonic Pi
+* Lerne ein paar erste command line Kommandos
+* Verstehe GPIO zu steuern mit Scratch
+* (Schreibe dein erstes Python Programm)
+
+##Worksheets
+
+In dem Folder [worksheets] (worksheet) findest du den Kursinhalt als Text und als pdfs. 
+
+##Fortgeschrittenen Kurse
+
+* Roboter Workshop
+* Case Design - 3D Druck (coming soon)
+
+Einen Überlick wann die nächsten Kurse stattfinden findest du auf unserer [Webseite] (http://www.erfindergarde.de). 
+
+##Pi Club
+
+Wenn du in München wohnst und die der Grundlagen Kurs gefallen hast, kannst du immer Freitags von 17 bis 19 Uhr in den Pi Club kommen. Der Monatsbeitrag beträgt 25 € zzgl. Mwst.  
 
 
 ## Download
 
-* Entweder über "Download ZIP" rechts oben
+* Downloade das ganze Repo über "Download ZIP" rechts oben
 * Oder direkt über git, ein gutes Tutorial dazu findest du hier: [try.github.io](https://try.github.io)
 
 ##Lizenz
