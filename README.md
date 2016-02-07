@@ -1,5 +1,9 @@
 # Minecraft-Hacking-Raspberry-Pi-Grundlagen
 
+*For english version see here: [english](english)*
+
+---
+
 Hier sind die Kursmaterialien zum "Minecraft Hacking" Raspberry Pi Gundlagen Workshop.
 
 * `worksheets` enthält Arbeitsmaterial und Informationen zum RasPi Setup, Linux Terminal, GPIO, etc.
