@@ -1,0 +1,78 @@
+# Minecraft-Hacking-Raspberry-Pi-Grundlagen
+
+*For english version see here: [english](english)*
+
+---
+
+##Kursinhalt
+###SD Karte brennen
+* [Download] (http://www2.kano.me/downloads) kano image 
+* Mac -> [ApplePiBaker] (http://www.tweaking4all.com/hardware/raspberry-pi/macosx-apple-pi-baker/I)
+* Windows -> [Win32 Disk Imager] (http://sourceforge.net/projects/win32diskimager/)
+* Linux -> im Terminal folgendes eingeben:  `sudo dd if=sdcard.img of=/dev/sdb`
+
+###Kabelverbindung
+* add video/iamge (comming soon)
+* check up Test
+* FAQs
+
+### Linux Terminal
+
+###Sonic Pi
+
+* coming soon
+
+###GPIOS 
+
+####Scratch
+
+* coming soon
+
+####Python und Minecraft
+
+* coming soon
+
+##Einkaufsliste
+Einkaufsliste (Affiliate Links): hier alles als [Amazon Wunschliste] (http://www.amazon.de/registry/wishlist/17R4WSRLOP3DI)**1. Bildschirm** (59€ + 6,90€ = 65,9 €) --> [Lapdock] (http://www.amazon.de/gp/product/B00519L43M/ref=as_li_tl? ie=UTF8&camp=1638&creative=19454&creativeASIN=B00519L43M&linkCode=as2&tag=andrkopp-21)
+ **2. Computer** (38 €)--> [Raspberry Pi 2](http://www.amazon.de/gp/product/B00T2U7R7I/ref=as_li_tl? ie=UTF8&camp=1638&creative=19454&creativeASIN=B00T2U7R7I&linkCode=as2&tag=andrkopp-21)**3. Kabel um den Lapdock anzuschließen** (Total: 28,98 €)
+
+* [Micro HDMI female zu Micro HDMI female Adapter](http://www.amazon.de/gp/product/B00F9X8HJO/ref=as_li_tl? ie=UTF8&camp=1638&creative=19454&creativeASIN=B00F9X8HJO&linkCode=as2&tag=andrkopp-21) (das kommt in den rechten Connector des Lapdocks)  (5,66 €)* [HDMI zu Micro HMDI Kabel]  (http://www.amazon.de/gp/product/B0096LZ5QI/ref=as_li_tl? ie=UTF8&camp=1638&creative=19454&creativeASIN=B0096LZ5QI&linkCode=as2&tag=andrkopp-21) (eine Seite in den Micro HDMI Adapter die andere in den Pi) (7,49 €) * [USB female zu USB female](http://www.amazon.de/gp/product/B0018Z7VDA/ref=as_li_tl? ie=UTF8&camp=1638&creative=19454&creativeASIN=B0018Z7VDA&linkCode=as2&tag=andrkopp-21) (diesen Adapter stecken wir in den Linken Port) (2,85 €)* [2 X USB zu Micro USB Kabel]  (http://www.amazon.de/gp/product/B00SWSM6MM/ref=as_li_tl? ie=UTF8&camp=1638&creative=19454&creativeASIN=B00SWSM6MM&linkCode=as2&tag=andrkopp-21)  (das kommt einmal in den Lapdock und die andere Seite in den Raspi Power Port, das andere in den Adapter den wir in den linken Port des Kapdocks gesteckt haben.)(6,49 €)**4. Accessory** (Total: 18,51 €)
+
+* WLAN Stick (7,03€)(http://www.amazon.de/gp/product/B007JWB1N2/ref=as_li_tl? ie=UTF8&camp=1638&creative=19454&creativeASIN=B007JWB1N2&linkCode=as2&tag=andrkopp-21)*Maus (5,99 €)(http://www.amazon.de/gp/product/B00YMINV8Y/ref=as_li_tl? ie=UTF8&camp=1638&creative=19454&creativeASIN=B00YMINV8Y&linkCode=as2&tag=andrkopp-21)* Extra SD Karte (5,49€) (http://www.amazon.de/gp/product/B008RDCCFS/ref=as_li_tl? ie=UTF8&camp=1638&creative=19454&creativeASIN=B008RDCCFS&linkCode=as2&tag=andrkopp-21)* USB Stick für Backup - gebraucht von zu HauseGRAND TOTAL ohne Accessory: **132,88 €**      
+GRAND TOTAL mit Accessory : **154,43 €**
+
+###Weitere Kurs
+
+* Roboter Workshop
+* Case Design - 3D Druck 
+
+
+##Pi Club
+
+Wenn du in München wohnst und die der Grundlagen Kurs gefallen hast, kannst du immer Freitags von 17 bis 19 Uhr in den Pi Club kommen.  
+
+
+
+
+##LINKS 
+* [Ressources in Englisch auf der Raspberry Pi Webseite] (https://www.raspberrypi.org/resources/)
+* [Deutsches Raspberry Pi Forum] (http://www.forum-raspberrypi.de/)
+* Google it!
+* 
+
+## Download
+
+* Entweder über "Download ZIP" rechts oben
+* Oder direkt über git, ein gutes Tutorial dazu findest du hier: [try.github.io](https://try.github.io)
+
+##Lizenz
+Dieses Repository ist unter der Creative Commons Lizenz [CC-BY-SA] (http://creativecommons.org/licenses/by-sa/4.0/) lizensiert. 
+
+
+## Kontakt
+
+Schreibe uns jeder Zeit eine e-mail wenn du Fragen hast die in diesem Repository nicht benantwortet wuden. 
+
+* Web: [www.erfindergarden.de](http://www.erfindergarden.de)
+* Email: [play@erfindergarden.de](mailto:play@erfindergarden.de)
+* Twitter: [@andreaskopp](https://twitter.com/andreaskopp) und [@jsphpl](https://twitter.com/jsphpl)
