@@ -10,6 +10,11 @@ Hier sind die Kursmaterialien zum "Minecraft Hacking" Raspberry Pi Gundlagen Wor
 * `code` enthält die Python-Scripts, die wir im Laufe des Workshops programmieren
 * in der Einkaufsliste findest du das empfohlene Setup mit Amazon Links, dort findest du auch einen Wunschzettel
 
+##Workshop Ziele
+
+* 
+* Verstehe wie Minecraft Scratch Funktioniert
+
 
 ## Download
 
@@ -17,6 +22,7 @@ Hier sind die Kursmaterialien zum "Minecraft Hacking" Raspberry Pi Gundlagen Wor
 * Oder direkt über git, ein gutes Tutorial dazu findest du hier: [try.github.io](https://try.github.io)
 
 ##Lizenz
+Dieses Repository ist unter der Creative Commons Lizenz [CC-BY-SA] (http://creativecommons.org/licenses/by-sa/4.0/) lizensiert. 
 
 
 ## Kontakt
