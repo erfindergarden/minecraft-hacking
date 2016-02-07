@@ -12,10 +12,10 @@ Hier sind die Kursmaterialien zum "Minecraft Hacking" Raspberry Pi Gundlagen Wor
 
 ##Workshop Ziele
 
-* Verstehe was ein Raspberry Pi ist
-* Verstehe Programmierprinzipen wie "if do" und eine Schleife und Variablen 
-* Verstehe wie Minecraft mit Scratch zu hacken ist
-* Verstehe wie Music Coding mit Sonic Pi
+* Verstehe was ein Raspberry Pi ist und warum man in braucht
+* Verstehe was ein Programm ist und Programmierprinzipen wie "if do" und eine Schleife und Variablen 
+* Verstehe wie man Minecraft mit Kano/Scratch hacken kann
+* Verstehe wie man Music Coded mit Sonic Pi
 * Lerne ein paar erste command line Kommandos
 * Verstehe GPIO zu steuern mit Scratch
 * (Schreibe dein erstes Python Programm)
