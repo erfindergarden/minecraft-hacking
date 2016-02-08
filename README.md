@@ -8,7 +8,7 @@ Hier sind die Kursmaterialien zum "Minecraft Hacking" Raspberry Pi Gundlagen Wor
 
 * `worksheets` enthält Arbeitsmaterial und Informationen zum RasPi Setup, Linux Terminal, GPIO, etc.
 * `code` enthält die Python-Scripts, die wir im Laufe des Workshops programmieren
-* in der Einkaufsliste findest du das empfohlene Setup mit Amazon Links, dort findest du auch einen Wunschzettel
+* in der Einkaufsliste findest du das empfohlene Setup mit Amazon Links.
 
 ##Workshop Ziele
 
