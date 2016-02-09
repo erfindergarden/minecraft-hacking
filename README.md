@@ -41,6 +41,15 @@ Wenn du in München wohnst und die der Grundlagen Kurs gefallen hast, kannst du 
 * Downloade das ganze Repo über "Download ZIP" rechts oben
 * Oder direkt über git, ein gutes Tutorial dazu findest du hier: [try.github.io](https://try.github.io)
 
+
+## Hilfe bei der Dokumentation 
+
+Wir würde uns freuen, wenn du uns bei der Dokumentation des Kurses hilfst und anderen Workshopteilnehme hilst das Setup zu Hause leichter hinzubekommen. Hier findet du eine Anleitung wie du ein Issue erstellst. Wir reviewen deine Änderungen dann.  
+
+* [ein Issue erstellen](https://guides.github.com/features/issues/)
+* [How to contribute to open Source](https://guides.github.com/activities/contributing-to-open-source/)
+* versteht du nur Bahnhof, mach erst mal ein [Git tutorial](http://rogerdudler.github.io/git-guide/) durch
+
 ##Lizenz
 Dieses Repository ist unter der Creative Commons Lizenz [CC-BY-SA] (http://creativecommons.org/licenses/by-sa/4.0/) lizensiert. 
 
