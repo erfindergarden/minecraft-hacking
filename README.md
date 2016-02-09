@@ -44,7 +44,7 @@ Wenn du in München wohnst und die der Grundlagen Kurs gefallen hast, kannst du 
 
 ## Hilfe bei der Dokumentation 
 
-Wir würde uns freuen, wenn du uns bei der Dokumentation des Kurses hilfst und anderen Workshopteilnehmern hilfst das Setup zu Hause leichter hinzubekommen. Hier findet du eine Anleitung wie du ein Issue erstellst. Dazu brauchst du erst mal keinen github account.   
+Wir würde uns freuen, wenn du uns bei der Dokumentation des Kurses hilfst und anderen Workshopteilnehmern hilfst das Setup zu Hause leichter hinzubekommen. Hier findet du eine Anleitung wie du ein Issue erstellst. Mit einem Issue sagst du uns wo wir noch etwas verbessern können. Wir schauen uns dass dann an und machen dann die Änderung. Dazu brauchst du erst mal keinen github account.    
 
 --> [ein Issue erstellen](https://guides.github.com/features/issues/)
 
