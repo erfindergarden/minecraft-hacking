@@ -2,7 +2,7 @@
 
 *Für Deutsche Version siehe hier: [Deutsch](./deutsch)*  
 *For English Version see here: [English](./english)*  
-*For Italian Version see here: [Italian](./italian)*  
+*For Italian Version see here: [Italian](./italiano)*  
 *For Mexican Version see here: [Mexican](./mexicano)* 
 
 Stand 21. Februar 2016
@@ -23,7 +23,7 @@ Hier sind die Kursmaterialien zum "Minecraft Hacking" Raspberry Pi Gundlagen Wor
 * Verstehe wie man Music Coded mit Sonic Pi
 * Lerne ein paar erste command line Kommandos
 * Verstehe GPIO zu steuern mit Scratch
-* (Schreibe dein erstes Python Programm)
+* Schreibe dein erstes Python Programm
 
 ##Worksheets
 
@@ -33,12 +33,14 @@ In dem Folder [worksheets] (worksheet) findest du den Kursinhalt als Text und al
 
 * Roboter Workshop
 * Case Design - 3D Druck (coming soon)
+* Auto Chassis - 3D Druck (coming soon)
+* Pi Arcade
 
-Einen Überlick wann die nächsten Kurse stattfinden findest du auf unserer [Webseite] (http://www.erfindergarde.de). 
+Einen Überlick wann die nächsten Kurse stattfinden findest du auf unserer [Webseite] (http://www.erfindergarden.de). 
 
 ##Pi Club
 
-Wenn du in München wohnst und die der Grundlagen Kurs gefallen hast, kannst du immer Freitags von 17 bis 19 Uhr in den Pi Club kommen. Der Monatsbeitrag beträgt 25 € zzgl. Mwst.  
+Wenn du in München wohnst und die der Grundlagen Kurs gefallen hast, kannst du immer Freitags von 17 bis 19 Uhr in den Pi Club kommen. Der Monatsbeitrag beträgt 25 € zzgl. Mwst.  und 50€ Aufnahmebeitrag. 
 
 
 ## Download

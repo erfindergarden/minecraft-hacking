@@ -10,12 +10,44 @@
 * Windows -> [Win32 Disk Imager] (http://sourceforge.net/projects/win32diskimager/)
 * Linux -> im Terminal folgendes eingeben:  `sudo dd if=sdcard.img of=/dev/sdb`
 
-###Kabelverbindung
-* add video/iamge (comming soon)
-* check up Test
-* FAQs
+###Lapdock mit dem Pi verbinden
+1. Schaue dir meine Einkaufsliste an und kaufe was du brauchst
+2. Nehme eins der beiden Mirco USB zu USB Kabel und stecke das Mirco USB in den Pi und das USB in den zugeklappten Lapdock
+![](../bilder/verkabelung_1.JPG)
+3. Verbinde das HDMI Kabel mit dem HDMI Adapter und stecke das eine Ende in den rechten Port des Lapdock und das andere Ende in den HDMI Port des Pis
+![](../bilder/verkabelung_2.JPG)
+![](../bilder/verkabelung_3.JPG)
+![](../bilder/verkabelung_4.JPG)
+4. Verbinde das zweite Mirco USB Kabel mit dem USB Adapter und Stecke es in den Linken Port des Lapdocks
+![](../bilder/verkabelung_5.JPG)
+![](../bilder/verkabelung_6.JPG)
+![](../bilder/verkabelung_7.JPG)
+5. Check ob die Kabel fest drin stecken und klappe dann den Lapdock auf. Das rote LED am Pi sollte angeben und das grüne blinken, außerdem sollte etwas am Bildschirm zu sehen sein.
+![](../bilder/verkabelung_8.JPG)
+![](../bilder/verkabelung_9.JPG)
+
+6. Solltest du nichts auf dem Bildschirm sehen über prüfe folgendes:
+* sind alle Kabel richtig angeschlossen, überprüfe jedes Kabel einzeln
+* stecken die Kabel fest im Pi und im Lapdock
+* Hat mein Lapdock genügend Power, drücke den kleinen Knopf unter demn Trackpad um zu sehen wieviel Power der Akku noch hat und schließe den Lapdock an den Strom an
+* Klappe den Lapdock zu und wieder auf
+
+7. Solltest du eine Fehlermeldung auf dem Bildschirm sehen oder der Pi fährt immer wieder hoch kann die SD Karte kaputt sein. Brenne eine zweite SD Karte und probiere es mit ihr
+
+##FAQ
+**Wie schließe ich meinen Lapdock an?**
+
+Siehe oben
+
+**Wie wird der Pi mit Strom versorgt?**
+
+Der Pi wird über ein USB Kabel im Lapdock mit Strom versorgt. 
+
+
 
 ### Linux Terminal
+
+*coming soon
 
 ###Sonic Pi
 
@@ -37,7 +69,8 @@ Einkaufsliste (Affiliate Links): hier alles als [Amazon Wunschliste] (http://www
 
 * [Micro HDMI female zu Micro HDMI female Adapter](http://www.amazon.de/gp/product/B00F9X8HJO/ref=as_li_tl? ie=UTF8&camp=1638&creative=19454&creativeASIN=B00F9X8HJO&linkCode=as2&tag=andrkopp-21) (das kommt in den rechten Connector des Lapdocks)  (5,66 €)* [HDMI zu Micro HMDI Kabel]  (http://www.amazon.de/gp/product/B0096LZ5QI/ref=as_li_tl? ie=UTF8&camp=1638&creative=19454&creativeASIN=B0096LZ5QI&linkCode=as2&tag=andrkopp-21) (eine Seite in den Micro HDMI Adapter die andere in den Pi) (7,49 €) * [USB female zu USB female](http://www.amazon.de/gp/product/B0018Z7VDA/ref=as_li_tl? ie=UTF8&camp=1638&creative=19454&creativeASIN=B0018Z7VDA&linkCode=as2&tag=andrkopp-21) (diesen Adapter stecken wir in den Linken Port) (2,85 €)* [2 X USB zu Micro USB Kabel]  (http://www.amazon.de/gp/product/B00SWSM6MM/ref=as_li_tl? ie=UTF8&camp=1638&creative=19454&creativeASIN=B00SWSM6MM&linkCode=as2&tag=andrkopp-21)  (das kommt einmal in den Lapdock und die andere Seite in den Raspi Power Port, das andere in den Adapter den wir in den linken Port des Kapdocks gesteckt haben.)(6,49 €)**4. Accessory** (Total: 18,51 €)
 
-* WLAN Stick (7,03€)(http://www.amazon.de/gp/product/B007JWB1N2/ref=as_li_tl? ie=UTF8&camp=1638&creative=19454&creativeASIN=B007JWB1N2&linkCode=as2&tag=andrkopp-21)*Maus (5,99 €)(http://www.amazon.de/gp/product/B00YMINV8Y/ref=as_li_tl? ie=UTF8&camp=1638&creative=19454&creativeASIN=B00YMINV8Y&linkCode=as2&tag=andrkopp-21)* Extra SD Karte (5,49€) (http://www.amazon.de/gp/product/B008RDCCFS/ref=as_li_tl? ie=UTF8&camp=1638&creative=19454&creativeASIN=B008RDCCFS&linkCode=as2&tag=andrkopp-21)* USB Stick für Backup - gebraucht von zu HauseGRAND TOTAL ohne Accessory: **132,88 €**      
+* [WLAN Stick](http://www.amazon.de/gp/product/B007JWB1N2/ref=as_li_tl? ie=UTF8&camp=1638&creative=19454&creativeASIN=B007JWB1N2&linkCode=as2&tag=andrkopp-21) (7,03€)  
+* [Maus](http://www.amazon.de/gp/product/B00YMINV8Y/ref=as_li_tl? ie=UTF8&camp=1638&creative=19454&creativeASIN=B00YMINV8Y&linkCode=as2&tag=andrkopp-21) (5,99 €)* [Extra SD Karte](http://www.amazon.de/gp/product/B008RDCCFS/ref=as_li_tl? ie=UTF8&camp=1638&creative=19454&creativeASIN=B008RDCCFS&linkCode=as2&tag=andrkopp-21) (5,49€)* USB Stick für Backup - gebraucht von zu HauseGRAND TOTAL ohne Accessory: **132,88 €**      
 GRAND TOTAL mit Accessory : **154,43 €**
 
 
@@ -45,7 +78,6 @@ GRAND TOTAL mit Accessory : **154,43 €**
 * [Ressources in Englisch auf der Raspberry Pi Webseite] (https://www.raspberrypi.org/resources/)
 * [Deutsches Raspberry Pi Forum] (http://www.forum-raspberrypi.de/)
 * Google it!
-* 
 
 ## Download
 
