@@ -1,8 +1,11 @@
 # Minecraft-Hacking-Raspberry-Pi-Grundlagen
 
-*For english version see here: [english](english)*
+*Für Deutsche Version siehe hier: [Deutsch](deutsch)*  
+*For English Version see here: [English](english)*  
+*For Italian Version see here: [Italian](italian)*  
+*For Mexican Version see here: [Mexican](mexicano)* 
 
-Stand 9. Februar 2016
+Stand 21. Februar 2016
 
 ---
 
@@ -14,8 +17,8 @@ Hier sind die Kursmaterialien zum "Minecraft Hacking" Raspberry Pi Gundlagen Wor
 
 ##Workshop Ziele
 
-* Verstehe was ein Raspberry Pi ist und warum man in braucht
-* Verstehe was ein Programm ist und Programmierprinzipen wie "if do" und eine Schleife und Variablen 
+* Verstehe was ein Raspberry Pi ist und warum man ihn braucht
+* Verstehe was ein Programm ist und Programmierprinzipen wie "if do", eine Schleife und Variablen 
 * Verstehe wie man Minecraft mit Kano/Scratch hacken kann
 * Verstehe wie man Music Coded mit Sonic Pi
 * Lerne ein paar erste command line Kommandos
