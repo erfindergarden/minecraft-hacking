@@ -27,12 +27,13 @@
 ![](../bilder/verkabelung_9.JPG)
 
 6. Solltest du nichts auf dem Bildschirm sehen über prüfe folgendes:
-* sind alle Kabel richtig angeschlossen, überprüfe jedes Kabel einzeln
-* stecken die Kabel fest im Pi und im Lapdock
-* Hat mein Lapdock genügend Power, drücke den kleinen Knopf unter demn Trackpad um zu sehen wieviel Power der Akku noch hat und schließe den Lapdock an den Strom an
-* Klappe den Lapdock zu und wieder auf
+	* sind alle Kabel richtig angeschlossen, überprüfe jedes Kabel einzelnd
+	* stecken die Kabel fest im Pi und im Lapdock
+	* Hat mein Lapdock genügend Power, drücke den kleinen Knopf unter dem Trackpad, um zu sehen wieviel Power der Akku noch hat und schließe den Lapdock an den Strom an
+	* Klappe den Lapdock zu und wieder auf
+manchmal kann es sein dass du ein schlechtes USB Kabel hast, wenn es nicht klappt verwenden ein anderes USB Kabel  
 
-7. Solltest du eine Fehlermeldung auf dem Bildschirm sehen oder der Pi fährt immer wieder hoch kann die SD Karte kaputt sein. Brenne eine zweite SD Karte und probiere es mit ihr
+7. Solltest du eine Fehlermeldung auf dem Bildschirm sehen oder sollte der Pi immer wieder booten, kann die SD Karte kaputt sein. Brenne eine zweite SD Karte und probiere es mit ihr aus.
 
 ##FAQ
 **Wie schließe ich meinen Lapdock an?**
