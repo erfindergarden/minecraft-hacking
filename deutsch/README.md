@@ -26,7 +26,7 @@
 ![](../bilder/verkabelung_8.JPG)
 ![](../bilder/verkabelung_9.JPG)
 
-6. Solltest du nichts auf dem Bildschirm sehen über prüfe folgendes:
+6. Solltest du nichts auf dem Bildschirm sehen überprüfe folgendes:
 	* sind alle Kabel richtig angeschlossen, überprüfe jedes Kabel einzelnd
 	* stecken die Kabel fest im Pi und im Lapdock
 	* Hat mein Lapdock genügend Power, drücke den kleinen Knopf unter dem Trackpad, um zu sehen wieviel Power der Akku noch hat und schließe den Lapdock an den Strom an

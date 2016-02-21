@@ -27,7 +27,7 @@ Hier sind die Kursmaterialien zum "Minecraft Hacking" Raspberry Pi Gundlagen Wor
 
 ##Worksheets
 
-In dem Folder [worksheets] (../deutsch/worksheet) findest du den Kursinhalt als Text und als pdfs, sowie die Einkaufsliste und eine Anleitung wie man das Lapdock und den Pi verbindet. 
+In dem Folder [worksheets] (./deutsch/worksheets) findest du den Kursinhalt als Text und als pdfs, sowie die Einkaufsliste und eine Anleitung wie man das Lapdock und den Pi verbindet. 
 
 ##Fortgeschrittenen Kurse
 
