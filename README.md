@@ -1,9 +1,9 @@
 # Minecraft-Hacking-Raspberry-Pi-Grundlagen
 
-*Für Deutsche Version siehe hier: [Deutsch](deutsch)*  
-*For English Version see here: [English](english)*  
-*For Italian Version see here: [Italian](italian)*  
-*For Mexican Version see here: [Mexican](mexicano)* 
+*Für Deutsche Version siehe hier: [Deutsch](./deutsch)*  
+*For English Version see here: [English](./english)*  
+*For Italian Version see here: [Italian](./italian)*  
+*For Mexican Version see here: [Mexican](./mexicano)* 
 
 Stand 21. Februar 2016
 
