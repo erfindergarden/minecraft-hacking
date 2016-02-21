@@ -27,14 +27,14 @@ Hier sind die Kursmaterialien zum "Minecraft Hacking" Raspberry Pi Gundlagen Wor
 
 ##Worksheets
 
-In dem Folder [worksheets] (worksheet) findest du den Kursinhalt als Text und als pdfs. 
+In dem Folder [worksheets] (./worksheet) findest du den Kursinhalt als Text und als pdfs, sowie die Einkaufsliste und eine Anleitung wie man das Lapdock und den Pi verbindet. 
 
 ##Fortgeschrittenen Kurse
 
 * Roboter Workshop
 * Case Design - 3D Druck (coming soon)
 * Auto Chassis - 3D Druck (coming soon)
-* Pi Arcade
+* Pi Arcade Workshop
 
 Einen Überlick wann die nächsten Kurse stattfinden findest du auf unserer [Webseite] (http://www.erfindergarden.de). 
 
