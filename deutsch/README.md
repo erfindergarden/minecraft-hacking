@@ -6,7 +6,7 @@
 ##Kursinhalt
 ###SD Karte brennen
 * [Download] (http://www2.kano.me/downloads) kano image 
-* Mac -> [ApplePiBaker] (http://www.tweaking4all.com/hardware/raspberry-pi/macosx-apple-pi-baker/I), Anleitung [hier](./imagebrennenmac) 
+* Mac -> [ApplePiBaker] (http://www.tweaking4all.com/hardware/raspberry-pi/macosx-apple-pi-baker/I), Anleitung [hier](./imagebrennenmac.md) 
 * Windows -> [Win32 Disk Imager] (http://sourceforge.net/projects/win32diskimager/)
 * Linux -> im Terminal folgendes eingeben:  `sudo dd if=sdcard.img of=/dev/sdb`
 
