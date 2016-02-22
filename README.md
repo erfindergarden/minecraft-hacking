@@ -3,17 +3,17 @@
 *Für Deutsche Version siehe hier: [Deutsch](./deutsch)*  
 *For English Version see here: [English](./english)*  
 *For Italian Version see here: [Italian](./italiano)*  
-*For Mexican Version see here: [Mexican](./mexicano)* 
+*For Mexican Version see here: [Mexican](./mexicano-puebla)* 
 
 Stand 21. Februar 2016
 
 ---
 
-Hier sind die Kursmaterialien zum "Minecraft Hacking" Raspberry Pi Gundlagen Workshop.
+Hier sind die Kursmaterialien zum "Minecraft Hacking" Raspberry Pi Gundlagen Workshop und Tipps wie du zu Hause weitermachen kannst. Schicke uns jederzeit eine Email wenn du Fragen hast.
 
-* `worksheets` enthält Arbeitsmaterial und Informationen zum RasPi Setup, Linux Terminal, GPIO, etc.
-* `code` enthält die Python-Scripts, die wir im Laufe des Workshops programmieren
-* in der Einkaufsliste findest du das empfohlene Setup mit Amazon Links.
+* `worksheets` enthält das Arbeitsmaterial und Informationen zum RasPi Setup, Linux Terminal, GPIO, aus dem Workshop
+* `code` enthält die Python-Scripts und Scratch Scripts, die wir im Laufe des Workshops programmiert haben
+* in der `Einkaufsliste` findest du das empfohlene Setup mit Amazon Links.
 
 ##Workshop Ziele
 
@@ -27,11 +27,46 @@ Hier sind die Kursmaterialien zum "Minecraft Hacking" Raspberry Pi Gundlagen Wor
 
 ##Worksheets
 
-In dem Folder [worksheets] (./deutsch/) findest du den Kursinhalt als Text und als pdfs, sowie die Einkaufsliste und eine Anleitung wie man das Lapdock und den Pi verbindet. 
+In dem Folder [worksheets] (./deutsch/) findest du den Kursinhalt als Text und als pdfs, sowie die Einkaufsliste mit dem Setup welches wir im Kurs verwendet habne, sowie eine Anleitung wie man das Lapdock und den Pi verbindet. 
+
+## Ohne Raspberry Pi
+
+Wenn du zunächst keinen Raspberry Pi kaufen möchtest kannst du trozdem zu Hause weiter machen.
+
+### Mit deinem Mac/Windows/Linux Pc
+
+1. Programmiere online mit Scratch, die Programmiersprache die wir benutzt haben, um Pong und Minecraft zu hacken ([https://scratch.mit.edu/projects/editor/](https://scratch.mit.edu/projects/editor/))
+	* du brauchst nur Firefox, Chrome und Flash
+	* [hier kannst du Scratch Step-by-Step lernen ](https://scratch.mit.edu/projects/editor/?tip_bar=getStarted)
+	* [Es gib auch eine Offline Version](https://scratch.mit.edu/scratch2download/)
+	* wenn du einen älteren Computer hast kannst du auch [Scratch 1.4](https://scratch.mit.edu/scratch_1.4/) installieren
+	* du wirst viele Beispiele online finden
+	* happy programming!
+
+
+2. Du kannst auch Sonic Pi herunterladen, das Programm, mit dem wir Musik programmiert haben (Mac oder Windows, [http://sonic-pi.net/](http://sonic-pi.net/))
+	* [hier findest du ein paar Beispiele ](http://sonic-pi.net/)
+	* [und so programmiert man Daft Punk](https://aimxhaisse.com/aerodynamic-everything-en.html) 
+
+3. Du kannst auch ein paar online Kurse durchmachen wie:
+
+	* [Code.org](https://code.org/)
+	* [Codeacademy.org](https://www.codecademy.com/)
+
+### Mit deinem tablet
+
+Du kannst auch weiter machen mit deinem Tablet. 
+
+1. [Du kannst etwas Scratch Jr. herunterladen ](http://www.scratchjr.org/)
+2. Es gibt das normale Scratch als i-pad Version --> [Pyrokee](https://itunes.apple.com/us/app/pyonkee/id905012686?mt=8)
+3. Fang an!
+
 
 ##Fortgeschrittenen Kurse
 
-* Roboter Workshop
+Wir bieten auch monatlich weiterführende Kurse an wie: 
+
+* Roboter Workshop (Folgeworkshop von Minecraft Hacking)
 * Case Design - 3D Druck (coming soon)
 * Auto Chassis - 3D Druck (coming soon)
 * Pi Arcade Workshop
