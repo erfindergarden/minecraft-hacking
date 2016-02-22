@@ -5,13 +5,15 @@ Here you can find the course materials for the "Minecraft Hacking" Raspberry Pi 
 
 
 
-##Worksheets
+##Content
 
-In the folder [worksheets] (./deutsch/) you find the  content of the course and also the Purchase List.  You can find also a step by step guide how to connect the Pi with the Lapdock.
+### Worksheet
 
-## Code
+In the folder [worksheets] (./worksheets) you find the  content of the course and also the Purchase List.  You can find also a step by step guide how to connect the Pi with the Lapdock.
 
-`code` contains all the relevant code examples we used in the workshop.
+### Code
+
+`code` contains all the code examples we used in the workshop.
 
 ## Without Raspberry Pi
 

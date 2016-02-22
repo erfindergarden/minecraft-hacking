@@ -1,6 +1,5 @@
 # Minecraft-Hacking-Raspberry-Pi-Grundlagen
 
-*Für Deutsche Version siehe hier: [Deutsch](./deutsch)*  
 *For English Version see here: [English](./english)*  
 *For Italian Version see here: [Italian](./italiano)*  
 *For Mexican Version see here: [Mexican](./mexicano-puebla)* 
@@ -25,7 +24,7 @@ Hier sind die Kursmaterialien zum "Minecraft Hacking" Raspberry Pi Gundlagen Wor
 * Verstehe GPIO zu steuern mit Scratch
 * Schreibe dein erstes Python Programm
 
-##Worksheets
+##Inhalt
 
 In dem Folder [worksheets] (./deutsch/) findest du den Kursinhalt als Text und als pdfs, sowie die Einkaufsliste mit dem Setup welches wir im Kurs verwendet habne, sowie eine Anleitung wie man das Lapdock und den Pi verbindet. 
 
