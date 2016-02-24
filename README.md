@@ -56,7 +56,7 @@ Wenn du zunächst keinen Raspberry Pi kaufen möchtest kannst du trozdem zu Haus
 
 Du kannst auch weiter machen mit deinem Tablet. 
 
-1. [Du kannst etwas Scratch Jr. herunterladen ](http://www.scratchjr.org/)
+1. [Lade Scratch Jr. herunter](http://www.scratchjr.org/)
 2. Es gibt das normale Scratch als i-pad Version --> [Pyrokee](https://itunes.apple.com/us/app/pyonkee/id905012686?mt=8)
 3. Fang an!
 
