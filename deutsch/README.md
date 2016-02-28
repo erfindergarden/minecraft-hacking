@@ -42,9 +42,17 @@ Siehe oben
 
 **Wie wird der Pi mit Strom versorgt?**
 
-Der Pi wird über ein USB Kabel im Lapdock mit Strom versorgt. 
+Der Pi wird über das USB Kabel im Lapdock mit Strom versorgt. Bei meinem Setup ist es das Kabel mit dem Lila Tape drauf. 
 
+**Was ist das Password beim einloggen in Kano**
 
+kano 
+
+**Die Zeichen auf den Tasten stimmen nicht mit meinem Keyboard Layout überein, was kann ich machen?**
+
+Unter Settings in kano kannst du deine Tastaturbelegungen ändern. 
+
+Und mit einem [Tastatursticker ](http://www.amazon.de/Selbstkleben-Deutsche-Tastatur-Aufkleber-TastaturAufkleber/dp/B0050O4K5C/ref=pd_sim_sbs_201_4?ie=UTF8&dpID=31ijYeQClxL&dpSrc=sims&preST=_AC_UL160_SR160%2C160_&refRID=1J1A4ZD3M4SX3HV9JPDT)kannst du dir eine Deutsche Tastatur auf die Tasten kleben.
 
 ### Linux Terminal
 
