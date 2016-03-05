@@ -12,7 +12,7 @@
 
 ###Lapdock mit dem Pi verbinden
 1. Schaue dir meine Einkaufsliste an und kaufe was du brauchst
-2. Nehme eins der beiden Mirco USB zu USB Kabel und stecke das Mirco USB in den Pi und das USB in den zugeklappten Lapdock
+2. Nehme eins der beiden Mirco USB zu USB Kabel und stecke das Mirco USB in den Pi und das USB in den zugeklappten Lapdock.
 ![](../bilder/verkabelung_1.JPG)
 3. Verbinde das HDMI Kabel mit dem HDMI Adapter und stecke das eine Ende in den rechten Port des Lapdock und das andere Ende in den HDMI Port des Pis
 ![](../bilder/verkabelung_2.JPG)
