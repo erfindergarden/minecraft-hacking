@@ -4,7 +4,7 @@
 *For Italian Version see here: [Italian](./italiano)*  
 *For Mexican Version see here: [Mexican](./mexicano-puebla)* 
 
-Stand 21. Februar 2016
+Stand 13. März 2016
 
 ---
 
@@ -14,25 +14,28 @@ Hier sind die Kursmaterialien zum "Minecraft Hacking" Raspberry Pi Gundlagen Wor
 * `code` enthält die Python-Scripts und Scratch Scripts, die wir im Laufe des Workshops programmiert haben
 * in der `Einkaufsliste` findest du das empfohlene Setup mit Amazon Links.
 
-##Workshop Ziele
+## Workshop Ziele
 
 * Verstehe was ein Raspberry Pi ist und warum man ihn braucht
-* Verstehe was ein Programm ist und Programmierprinzipen wie "if do", eine Schleife und Variablen 
+* Verstehe was ein Programm ist und Programmierprinzipen wie "if do", eine Schleife und eine Variable
 * Verstehe wie man Minecraft mit Kano/Scratch hacken kann
 * Verstehe wie man Music Coded mit Sonic Pi
 * Lerne ein paar erste command line Kommandos
-* Verstehe GPIO zu steuern mit Scratch
+* Steuere Inputs und Outputs mit Scratch
 * Schreibe dein erstes Python Programm
 
-##Inhalt
+## Kursinhalt
+
+
+### Mit Raspberry Pi
 
 In dem Folder [worksheets] (./deutsch/) findest du den Kursinhalt als Text und als pdfs, sowie die Einkaufsliste mit dem Setup welches wir im Kurs verwendet habne, sowie eine Anleitung wie man das Lapdock und den Pi verbindet. 
 
-## Ohne Raspberry Pi
+### Ohne Raspberry Pi
 
 Wenn du zunächst keinen Raspberry Pi kaufen möchtest kannst du trozdem zu Hause weiter machen.
 
-### Mit deinem Mac/Windows/Linux Pc
+#### Mit deinem Mac/Windows/Linux Pc
 
 1. Programmiere online mit Scratch, die Programmiersprache die wir benutzt haben, um Pong und Minecraft zu hacken ([https://scratch.mit.edu/projects/editor/](https://scratch.mit.edu/projects/editor/))
 	* du brauchst nur Firefox, Chrome und Flash
@@ -52,7 +55,7 @@ Wenn du zunächst keinen Raspberry Pi kaufen möchtest kannst du trozdem zu Haus
 	* [Code.org](https://code.org/)
 	* [Codeacademy.org](https://www.codecademy.com/)
 
-### Mit deinem tablet
+#### Mit deinem tablet
 
 Du kannst auch weiter machen mit deinem Tablet. 
 
