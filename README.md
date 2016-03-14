@@ -8,11 +8,14 @@ Stand 13. März 2016
 
 ---
 
-Hier sind die Kursmaterialien zum "Minecraft Hacking" Raspberry Pi Gundlagen Workshop und Tipps wie du zu Hause weitermachen kannst. Schicke uns jederzeit eine Email wenn du Fragen hast.
+Das die Kursmaterialien zum "Minecraft Hacking" Raspberry Pi Gundlagen Workshop vom erfingeraden. Außerdem Tipps wie du zu Hause weitermachen kannst. Schicke uns jederzeit eine Email wenn du Fragen hast.
 
-* `worksheets` enthält das Arbeitsmaterial und Informationen zum RasPi Setup, Linux Terminal, GPIO, aus dem Workshop
-* `code` enthält die Python-Scripts und Scratch Scripts, die wir im Laufe des Workshops programmiert haben
-* in der `Einkaufsliste` findest du das empfohlene Setup mit Amazon Links.
+* Im Ordner [deutsch](./deutsch) haben wir allen Infos verlinkt
+* Dort findet du eine [Anleitung](./deutsch/lapdockpi.md) wie du deinen Kano und deinen Lapdock verbindest
+* und eine [Einkaufsliste](./deutsch/einkaufsliste.md) für das empfohlene Setup und auch Bezugsquellen für Zubehör
+* [worksheets](./worksheets) enthält PDF zum RasPi Setup, Linux Terminal, GPIO, aus dem Workshop
+* Der Order [Code](./Code) enthält die Python-Scripts und Scratch Scripts
+
 
 ## Workshop Ziele
 
