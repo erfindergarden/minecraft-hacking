@@ -68,6 +68,8 @@ Das Aufsteckboard das wir im Kurs verwendet haben findest du bei [Ryanteck](http
 
 #### TNT Circle 
 
+Am Endes des Kurses habe ich dir noch kurz gezeigt wir mit dem Drücken eines Buttons einen TNT Circle erstellt. 
+
 Den Code dazu findest du unter [Code](./code) 
 
 Öffne das Terminal und tippe. 
@@ -79,11 +81,22 @@ sudo geany
 
 Das passwort ist kano. 
 
-Dann öffnet sich der Editor. 
+Dann öffnet sich der Editor. Mit dem kleinen Rädchen kannst du den Code ausführen und mit ```Ctrl + C``` kannst du in stoppen.
 
-Wichtig ist, dass du deinen Code immer unter dem Ordner MyAdventures abspeicherst und Minecraft offen hast wenn du den Code ausführst. 
+Wichtig ist, dass du deinen Code immer unter dem Ordner MyAdventures abspeicherst mit der Endung .py und Minecraft offen hast, wenn du den Code ausführst. 
 
 Mehr Code findest du [hier](http://eu.wiley.com/WileyCDA/Section/id-823690.html).
+
+## More Minecraft Worlds
+
+Die Pi Minecraft Edition nutzt das gleiche Level Format wie die Minecraft Pocket Edition [here](https://drive.google.com/open?id=0B3iYmii-HJ7TeE5MS3BqM2hwaFE) kannst du mehr Welten finden wie Hogwarts, Avatar Hometree, Circular Town, Farm Village, Spleef Arena und mehr. Weitere Welten im [Minecraft Forum](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/mcpe-wip-maps).
+
+Lade die Welten herunter und kopiere sie in den Ordner ```minecraftWorlds```. Um diesen Ordner zu sehen musst du erst versteckete Dateien (Show Hidden) anzeigen dann findest du ihn under .minecraft > games > com.mojang > minecraftWorlds. 
+
+## Spiele deine programmierte Welt auf den i-phone/i-pad
+
+Du kannst deine mit dem Pi programmierten Welten dann in deiner Pocket Edition auf dein i-pad oder i-phone kopieren. In [diesem Video](https://www.youtube.com/watch?v=muB7SDl6158) wird die gezeigt wie das geht. Für Mac empfehle ich dir den i-explorer. 
+
 
 ## LINKS und Bücher
 
@@ -97,7 +110,9 @@ Es gibt mittlerweile viele Zeitschriften, Bücher und Internetseiten die die hel
 Aufsteckboards und Zubehör kannst du bei folgenden Händlern erwerben. Ich würde dir als Einstieg den Traffichat empfehlen oder den Explorer Hat und dann einen Sense Hat oder eine Kamera. Leider scheint es da ein paar Produktionsenpässe zu geben und das einzige Board was zur Zeit zur Verfügung steht ist der Traffic Hat. 
 
 * [Ryanteck](https://ryanteck.uk/)  
-	-> [Traffic Hat](https://ryanteck.uk/hats/1-traffichat-0635648607122.html) (9,30 €)  
+	-> [Traffic Hat](https://ryanteck.uk/hats/1-traffichat-0635648607122.html) (9,30 €)
+* [seedstudio ](http://www.seeedstudio.com/depot/category_products?themes_id=1413)  
+* Adafruit 
 * [Pi Hut](http://thepihut.com/)
 * [Pimoroni](http://www.pimoroni.com/)
 
