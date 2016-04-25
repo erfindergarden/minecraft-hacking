@@ -5,7 +5,7 @@ Alles was du brauchst, um zu Hause mit deiner SD Karte weiter zu arbeiten.
 Hier findest du die Dinge in einer [Amazon Wunschliste] (http://www.amazon.de/registry/wishlist/17R4WSRLOP3DI)
 
 **1. Bildschirm** (59€ + 6,90€ = 65,9 €)
- --> [Lapdock] (http://www.amazon.de/gp/product/B00519L43M/ref=as_li_tl? ie=UTF8&camp=1638&creative=19454&creativeASIN=B00519L43M&linkCode=as2&tag=andrkopp-21) oder bei [ebay](http://www.ebay.de/itm/MOTOROLA-LAPDOCK-STATION-FUR-ATRIX-TOUCHPAD-TASTATUR-29-5cm-11-6-DISPLAY-NEU-/140754258558) wenn ausverkauft 
+ --> [Lapdock] (http://www.amazon.de/gp/product/B00519L43M/ref=as_li_tl? ie=UTF8&camp=1638&creative=19454&creativeASIN=B00519L43M&linkCode=as2&tag=andrkopp-21) leider momentan ausverkauft. Eventuell nach *Motorola Lapdock* [googlen](https://www.google.com?q=Motorola+Lapdock). Ansonsten dürfte das [NexDock](http://nexdock.com/) demnächst erhältlich sein.
  
 **2. Computer** (38 €)
 --> [Raspberry Pi 2](http://www.amazon.de/gp/product/B00T2U7R7I/ref=as_li_tl? ie=UTF8&camp=1638&creative=19454&creativeASIN=B00T2U7R7I&linkCode=as2&tag=andrkopp-21) oder [Version 3](http://www.amazon.de/Raspberry-Pi-3-Model-B/dp/B01CEFWQFA/ref=as_li_tl? ie=UTF8&camp=1638&creative=19454&creativeASIN=B00T2U7R7I&linkCode=as2&tag=andrkopp-21) (48 €)
