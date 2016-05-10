@@ -1,5 +1,7 @@
 # Minecraft-Hacking-Raspberry-Pi-Grundlagen
 
+[![Join the chat at https://gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen](https://badges.gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen.svg)](https://gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 *For English Version see here: [English](./english)*  
 *For Italian Version see here: [Italian](./italiano)*  
 *For Mexican Version see here: [Mexican](./mexicano-puebla)* 
