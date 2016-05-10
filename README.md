@@ -4,13 +4,13 @@
 
 *For English Version see here: [English](./english)*  
 *For Italian Version see here: [Italian](./italiano)*  
-*For Mexican Version see here: [Mexican](./mexicano-puebla)* 
+*For Mexican Version see here: [Spanish](./mexicano-puebla)* 
 
-Stand 13. März 2016
+Stand 10. Mai 2016
 
 ---
 
-Das die Kursmaterialien zum "Minecraft Hacking" Raspberry Pi Gundlagen Workshop vom erfingeraden. Außerdem Tipps wie du zu Hause weitermachen kannst. Schicke uns jederzeit eine Email wenn du Fragen hast.
+Das die Kursmaterialien zum "Minecraft Hacking" Raspberry Pi Gundlagen Workshop vom #erfindergarden. Außerdem Tipps wie du zu Hause weitermachen kannst. Wenn du fragen hast nutze deb gitter channel der oben verlinkt ist.
 
 * Im Ordner [deutsch](./deutsch) haben wir allen Infos verlinkt
 * Dort findet du eine [Anleitung](./deutsch/lapdockpi.md) wie du deinen Kano und deinen Lapdock verbindest
