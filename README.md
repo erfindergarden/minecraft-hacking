@@ -2,6 +2,8 @@
 
 [![Join the chat at https://gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen](https://badges.gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen.svg)](https://gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+ 
+
 *For English Version see here: [English](./english)*  
 *For Italian Version see here: [Italian](./italiano)*  
 *For Mexican Version see here: [Spanish](./mexicano-puebla)* 
@@ -79,6 +81,14 @@ Wir bieten auch monatlich weiterführende Kurse an wie:
 * Pi Arcade Workshop
 
 Einen Überlick wann die nächsten Kurse stattfinden findest du auf unserer [Webseite] (http://www.erfindergarden.de). 
+
+## Hilfe 
+
+Für die jenigen die nicht jeden Freitag in unseren Pi Club bieten wir an ihnen über Gitter zu helfen. Mache dir einfach einen Github Account und stelle deine Fragen in unserem Gitter Channel. 
+
+[![Join the chat at https://gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen](https://badges.gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen.svg)](https://gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+
 
 ##Pi Club
 
