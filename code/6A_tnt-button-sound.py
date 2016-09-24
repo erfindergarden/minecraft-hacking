@@ -23,7 +23,7 @@ GPIO.setup(24, GPIO.IN, pull_up_down=GPIO.PUD_UP)
 while True:
     input_state = GPIO.input(24)
     if input_state == False:
-        print "Button Pressed"
+        print "Button gedruckt"
         pos = mc.player.getPos()
         os.system('mpg123 minecraft_short.mp3 &')
         x = pos.x

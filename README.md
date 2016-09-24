@@ -105,7 +105,7 @@ Update den Code mit:
 
 resete deinen lokalen veränderungen:
 
-`git reset --hard`
+`sudo git reset --hard`
 
 ## Hilfe bei der Dokumentation 
 

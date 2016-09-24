@@ -10,7 +10,7 @@ mcdrawing = minecraftstuff.MinecraftDrawing(mc)
 import mcpi.block as block
 
 radius = 10
-button = Button(21)
+button = Button(25)
 led = LED(24)
 
 while True:
