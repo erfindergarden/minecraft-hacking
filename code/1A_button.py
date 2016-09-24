@@ -11,7 +11,7 @@
 import RPi.GPIO as GPIO # importiere das RPi.GPIO Modul
 from time import sleep # damit du Pausen einbauen kannst in deinen Code
 
-GPIO.setmode(GPIO.BCM) #du kannst zwischen zwei Pin Nummerierungsmodes wählen, hier waehlen wir BCM
+GPIO.setmode(GPIO.BCM) #du kannst zwischen zwei Pin Nummerierungsmodes waehlen, hier waehlen wir BCM
 
 GPIO.setup(21, GPIO.IN, pull_up_down=GPIO.PUD_UP) #setzt GPIO24 als Input mit pull-up
 

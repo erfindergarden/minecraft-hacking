@@ -97,7 +97,7 @@ Wenn du in München wohnst und die der Grundlagen Kurs gefallen hast, kannst du 
 
 Öffne dein Terminal und schreibe ... 
 
-`git clone bit.ly/minecraft-hacking-clone`
+`git clone https://github.com/erfindergarden/minecraft-hacking.git`
 
 ## Hilfe bei der Dokumentation 
 

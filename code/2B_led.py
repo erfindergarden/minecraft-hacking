@@ -8,6 +8,7 @@ led = LED(21)
 
 while True:
     led.on()
+    print ("blink")
     sleep(1)
     led.off()
     sleep(1)
@@ -18,6 +19,8 @@ while True:
 #oder
 #while True:
 #   led.blink()
+#   print "blink"
+#   sleep(2)
 
 #oder
 #from signal import pause

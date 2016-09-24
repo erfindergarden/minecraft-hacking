@@ -49,7 +49,7 @@ You can also continue with your tablet.
 
 ## Git Clone Repository
 
-`git clone bit.ly/minecraft-hacking-clone`
+`git clone https://github.com/erfindergarden/minecraft-hacking.git`
 
 
 ## Contact
