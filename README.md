@@ -1,4 +1,4 @@
-# Minecraft-Hacking-Raspberry-Pi-Grundlagen
+# Minecraft Hacking Raspberry Pi Grundlagen 
 
 [![Join the chat at https://gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen](https://badges.gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen.svg)](https://gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -8,7 +8,7 @@
 *For Italian Version see here: [Italian](./italiano)*  
 *For Mexican Version see here: [Spanish](./mexicano-puebla)* 
 
-Stand 10. Mai 2016
+Stand 24. September 2016
 
 ---
 
@@ -18,7 +18,7 @@ Das die Kursmaterialien zum "Minecraft Hacking" Raspberry Pi Gundlagen Workshop 
 * Dort findet du eine [Anleitung](./deutsch/lapdockpi.md) wie du deinen Kano und deinen Lapdock verbindest
 * und eine [Einkaufsliste](./deutsch/einkaufsliste.md) für das empfohlene Setup und auch Bezugsquellen für Zubehör
 * [worksheets](./deutsch/worksheets) enthält PDF zum RasPi Setup, Linux Terminal, GPIO, aus dem Workshop
-* Der Order [Code](./code) enthält die Python-Scripts und Scratch Scripts
+* Der Ordner [Code](./code) enthält die Python-Scripts und Scratch Scripts
 
 
 ## Workshop Ziele
@@ -26,10 +26,11 @@ Das die Kursmaterialien zum "Minecraft Hacking" Raspberry Pi Gundlagen Workshop 
 * Verstehe was ein Raspberry Pi ist und warum man ihn braucht
 * Verstehe was ein Programm ist und Programmierprinzipen wie "if do", eine Schleife und eine Variable
 * Verstehe wie man Minecraft mit Kano/Scratch hacken kann
-* Verstehe wie man Music Coded mit Sonic Pi
+* (Verstehe wie man Music Coded mit Sonic Pi)
 * Lerne ein paar erste command line Kommandos
 * Steuere Inputs und Outputs mit Scratch
 * Schreibe dein erstes Python Programm
+* git basics und verändere ein Python Programm
 
 ## Kursinhalt
 
@@ -73,18 +74,15 @@ Du kannst auch weiter machen mit deinem Tablet.
 
 ##Fortgeschrittenen Kurse
 
-Wir bieten auch monatlich weiterführende Kurse an wie: 
+Wir bieten weiterführende Kurse an wie: 
 
 * Roboter Workshop (Folgeworkshop von Minecraft Hacking)
-* Case Design - 3D Druck (coming soon)
-* Auto Chassis - 3D Druck (coming soon)
-* Pi Arcade Workshop
 
-Einen Überlick wann die nächsten Kurse stattfinden findest du auf unserer [Webseite] (http://www.erfindergarden.de). 
+Einen Überlick wann die nächsten Kurse stattfinden findest du auf unserer [Webseite] (https://www.erfindergarden.de/kurse-workshops/). 
 
 ## Hilfe 
 
-Für die jenigen die nicht jeden Freitag in unseren Pi Club bieten wir an ihnen über Gitter zu helfen. Mache dir einfach einen Github Account und stelle deine Fragen in unserem Gitter Channel. 
+Für die jenigen die nicht jeden Freitag in unseren Pi Club in München kommen können bieten wir an ihnen über Gitter zu helfen. Mache dir einfach einen Github Account und stelle deine Fragen in unserem Gitter Channel. 
 
 [![Join the chat at https://gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen](https://badges.gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen.svg)](https://gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -92,14 +90,14 @@ Für die jenigen die nicht jeden Freitag in unseren Pi Club bieten wir an ihnen 
 
 ##Pi Club
 
-Wenn du in München wohnst und die der Grundlagen Kurs gefallen hast, kannst du immer Freitags von 17 bis 19 Uhr in den Pi Club kommen. Der Monatsbeitrag beträgt 25 € zzgl. Mwst.  und 50€ Aufnahmebeitrag. 
+Wenn du in München wohnst und die der Grundlagen Kurs gefallen hast, kannst du immer Freitags von 17 bis 19 Uhr in den Pi Club kommen. Der Monatsbeitrag beträgt 25 € zzgl. Mwst. und 50€ Aufnahmebeitrag. 
 
 
-## Download
+## Clone das ganze Repository
 
-* Downloade das ganze Repo über "Download ZIP" rechts oben
-* Oder direkt über git, ein gutes Tutorial dazu findest du hier: [try.github.io](https://try.github.io)
+Öffne dein Terminal und schreibe ... 
 
+`git clone bit.ly/minecraft-hacking-clone`
 
 ## Hilfe bei der Dokumentation 
 
@@ -116,7 +114,8 @@ Wenn du uns wirklich helfen willst dann forkst du unser repo clonst es auf deine
 * sehr zu empfehlen ist auch  [MacDown](http://macdown.uranusjr.com/) ein Open Source Markdown editor
 
 ##Lizenz
-Dieses Repository ist unter der Creative Commons Lizenz [CC-BY-SA] (http://creativecommons.org/licenses/by-sa/4.0/) lizensiert. 
+
+Dieses Repository ist unter der Creative Commons Lizenz [CC-BY-SA] (http://creativecommons.org/licenses/by-sa/4.0/) lizensiert. Das heißt du kannst unser Material benutzen und verändern solltest aber wenn du es nutzt schreiben, dass du es von uns hast und wieder dein Material mit CC-BY-SA lizensieren.
 
 
 ## Kontakt

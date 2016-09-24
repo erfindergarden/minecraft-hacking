@@ -1,4 +1,4 @@
-# Minecraft-Hacking-Raspberry-Pi-Basics
+# Minecraft Hacking - RaspberryPi Basics
 
 Here you can find the course materials for the "Minecraft Hacking" Raspberry Pi Basics workshop.
 
@@ -47,10 +47,9 @@ You can also continue with your tablet.
 3. Just start!
 
 
-## Download
+## Git Clone Repository
 
-* Either via "Download ZIP" top right
-* Or directly via git, you can find a good tutorial here: [try.github.io](https://try.github.io)
+`git clone bit.ly/minecraft-hacking-clone`
 
 
 ## Contact
