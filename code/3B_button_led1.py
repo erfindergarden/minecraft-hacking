@@ -7,6 +7,8 @@ led = LED(24)
 while True:
     if button.is_pressed:
         print("led an")
+        led.on()
     else:
         print("druecke den button")
-     sleep(0.1)
+        led.off()
+sleep(0.1)

@@ -99,6 +99,14 @@ Wenn du in München wohnst und die der Grundlagen Kurs gefallen hast, kannst du 
 
 `git clone https://github.com/erfindergarden/minecraft-hacking.git`
 
+Update den Code mit:
+
+`sudo git pull`
+
+resete deinen lokalen veränderungen:
+
+`git reset --hard`
+
 ## Hilfe bei der Dokumentation 
 
 Wir würde uns freuen, wenn du uns bei der Dokumentation des Kurses hilfst und anderen Workshopteilnehmern hilfst das Setup zu Hause leichter hinzubekommen. Hier findet du eine Anleitung wie du ein Issue erstellst. Mit einem Issue sagst du uns wo wir noch etwas verbessern können. Wir schauen uns dass dann an und machen dann die Änderung. Dazu brauchst du erst mal keinen github account.    
