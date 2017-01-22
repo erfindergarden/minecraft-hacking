@@ -5,9 +5,12 @@ from time import sleep
 
 
 import mcpi.minecraft as minecraft
+import mcpi.minecraftstuff as minecraftstuff
 mc = minecraft.Minecraft.create()
 mcdrawing = minecraftstuff.MinecraftDrawing(mc)
 import mcpi.block as block
+
+radius = 10
 
 radius = 10
 button = Button(25)

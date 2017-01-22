@@ -19,7 +19,7 @@ GPIO.setup(21, GPIO.IN, pull_up_down=GPIO.PUD_UP) #setzt GPIO24 als Input mit pu
 try: 
     while True:  # das ist eine Endlosschleife, die mit CTRL+C stoppen kannst   
         button_state = GPIO.input(21) #setze GPIO21 gleich der Variable button_state
-        if button_sate == False:  #wenn Button nicht nicht gedrueckt wird 
+        if button_state == False:  #wenn Button nicht nicht gedrueckt wird
             print "Button gedrueckt"  #schreibe Button gedrueck ins Terminal
         else:
             print "Button nicht gedrueckt" #schreibe Button nicht gedrueckt ins Terminal
