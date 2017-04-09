@@ -7,7 +7,7 @@
 
 import RPi.GPIO as GPIO
 import time
-import o
+import os
 
 import mcpi.minecraft as minecraft
 mc = minecraft.Minecraft.create()
