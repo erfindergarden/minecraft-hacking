@@ -1,20 +1,26 @@
-#!/usr/bin/env python
 
-#lass eine LED blinken
-
-import RPi.GPIO as GPIO 
+from gpiozero import LED
 from time import sleep
 
-GPIO.setmode(GPIO.BCM)
-GPIO.setwarnings(False)
-
-GPIO.setup(21, GPIO.OUT)
+led = LED(21)
 
 while True:
-    GPIO.output(21,1)
-    print "blink"
+    led.on()
+    print ("blink")
     sleep(1)
-    GPIO.output(21,0)
+    led.off()
     sleep(1)
 
-GPIO.cleanup()
+
+
+
+#oder
+#while True:
+#   led.blink()
+#   print "blink"
+#   sleep(2)
+
+#oder
+#from signal import pause
+#led.blink()
+#pause()

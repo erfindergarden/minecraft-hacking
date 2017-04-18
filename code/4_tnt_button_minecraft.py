@@ -1,23 +1,25 @@
 #TNT BUTTON CODE
 
-import RPi.GPIO as GPIO
-from time import sleep
+#gpio zero
 
+
+from gpiozero import Button
+
+from time import sleep
 
 import mcpi.minecraft as minecraft
 mc = minecraft.Minecraft.create()
 import mcpi.block as block
 
-GPIO.setmode(GPIO.BCM)
-GPIO.setup(21, GPIO.IN, pull_up_down=GPIO.PUD_UP)
+
+
+button = Button(21)
+
 
 while True:
-    input_state = GPIO.input(21)
-    if input_state == False:
-        print "Button gedrueckt"
+    if button.is_pressed:
+        print("Button gedrueckt")
         mc.postToChat("TNT")
-        
-        
         pos = mc.player.getPos() #bekomme die Spielerposition
         
         x = pos.x
@@ -29,5 +31,11 @@ while True:
         mc.setBlock(x, y, z, block,1)
         
         sleep(0.2)
+
+    else:
+        print("druecke den button")
+sleep(0.1)
+
+       
 
 #ENDE, veraendere den Blocktyp
