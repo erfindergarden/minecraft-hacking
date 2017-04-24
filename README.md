@@ -1,43 +1,92 @@
 # Minecraft Hacking Raspberry Pi Grundlagen 
 
+**HACK - MAKE - INVENT - SHARE**
+
 [![Join the chat at https://gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen](https://badges.gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen.svg)](https://gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
  
 
 *For English Version see here: [English](./english)*  
-*For Italian Version see here: [Italian](./italiano)*  
-*For Mexican Version see here: [Spanish](./mexicano-puebla)* 
 
-Stand 24. September 2016
+Stand 24. April 2017
 
 ---
 
-Das die Kursmaterialien zum "Minecraft Hacking" Raspberry Pi Gundlagen Workshop vom #erfindergarden. Außerdem Tipps wie du zu Hause weitermachen kannst. Wenn du fragen hast nutze deb gitter channel der oben verlinkt ist.
+Das sind die Kursmaterialien zum Minecraft Hacking Raspberry Pi Gundlagen Workshop vom #erfindergarden. Außerdem Tipps wie du zu Hause weitermachen kannst. 
 
 * Im Ordner [deutsch](./deutsch) haben wir allen Infos verlinkt
 * Dort findet du eine [Anleitung](./deutsch/lapdockpi.md) wie du deinen Kano und deinen Lapdock verbindest
 * und eine [Einkaufsliste](./deutsch/einkaufsliste.md) für das empfohlene Setup und auch Bezugsquellen für Zubehör
-* [worksheets](./deutsch/worksheets) enthält PDF zum RasPi Setup, Linux Terminal, GPIO, aus dem Workshop
-* Der Ordner [Code](./code) enthält die Python-Scripts und Scratch Scripts
+* [worksheets](./deutsch/worksheets) enthält PDFs zum RasPi Setup, Linux Terminal, GPIO, Schaltkreis aus dem Workshop
+* Der Ordner [Code](./code) enthält die Python-Scripts und Scratch Scripts aus dem Kurs
 
+## Was wirst im Kurs machen
 
-## Workshop Ziele
+* Pong hacken
+* Minecraft hacken
+* ein TNT-Button mit Scratch Programmieren
+* Terminal Quest
+* einen TNT-Button mit Minecraft verbinden 
+* Musik coden
 
-* Verstehe was ein Raspberry Pi ist und warum man ihn braucht
-* Verstehe was ein Programm ist und Programmierprinzipen wie "if do", eine Schleife und eine Variable
-* Verstehe wie man Minecraft mit Kano/Scratch hacken kann
+## Was wirst du lernen 
+
+* Was ein Raspberry Pi ist, warum man ihn braucht und wie man ihn zum laufen bringt
+* Was ein Computerprogramm ist und die wichtigste Programmierkonstrukte 
+* Wie man Minecraft mit Kano/Scratch hacken kann
 * (Verstehe wie man Music Coded mit Sonic Pi)
-* Lerne ein paar erste command line Kommandos
-* Steuere Inputs und Outputs mit Scratch
-* Schreibe dein erstes Python Programm
-* git basics und verändere ein Python Programm
+* Inputs wie Buttons und Outputs wie Leds mit Scratch steuern
+* Linux Filestruktur
+* Wichtige Command Line Befehle
+* Dein erstes Python Programm zu schreiben
+* Wo ich online gute Tutorials zum weiter machen finde
 
-## Kursinhalt
+Dieser Workshop beinhaltet folgende Elemente des [Digital Making Curriculums](https://www.raspberrypi.org/curriculum/) der Raspberry Pi Foundation
+
+* [Nutze Programmierkonstrukte um einfache Programme zu erstellen](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Nutze einfache digitale und analoge Input und Output Komponenten ](https://www.raspberrypi.org/curriculum/physical-computing/creator)
 
 
-### Mit Raspberry Pi
 
-In dem Folder [worksheets] (./deutsch/) findest du den Kursinhalt als Text und als pdfs, sowie die Einkaufsliste mit dem Setup welches wir im Kurs verwendet habne, sowie eine Anleitung wie man das Lapdock und den Pi verbindet. 
+#Wie kann ich weitermachen
+
+Das wichtiste ist dass du Spaß hast und dir so schnell wie möglich einen Pi besorgst. Am besten du kaufst schon einen Pi vor dem Kurs und kannst dann gleich zu Hause weiter machen. 
+
+## Was brauchst du um weiterzumachen?
+
+* einen Raspberry Pi am besten einen Pi3
+* ein SD Karte mit einem Pi Betriesbsystem (bekommst du im Kurs
+* einen Bildschirm
+* ein HDMI Kabel
+* eine Tastatur 
+
+
+
+
+##Fortgeschrittenen Workshop
+
+Wir kommen regelmäßig zurück nach Berlin, Wien, Hamburg und Frankfurt am Main für unseren Roboter Workshop
+
+* Roboter Workshop (Folgeworkshop von Minecraft Hacking)
+
+Die nächsten Termine findest du [hier] (https://www.erfindergarden.de/kurse-workshops/). 
+
+##Pi Club
+
+Wenn du in München wohnst und die der Grundlagen Kurs gefallen hast, kannst du immer Mittwoch von 18 bis 19.30 Uhr und Freitags von 17 bis 19 Uhr in den Pi Club kommen. Der Monatsbeitrag beträgt 25 € zzgl. Mwst. und 50€ Aufnahmebeitrag. 
+
+Anmeldungeformular hier. 
+
+
+## Selbstständig
+
+
+###Online Hilfe 
+
+Für die jenigen die nicht Mittwoch und Freitags in unseren Pi Club in München kommen können bieten wir an ihnen über Gitter zu helfen. Mache dir einfach einen Github Account und stelle deine Fragen in unserem Gitter Channel. 
+
+[![Join the chat at https://gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen](https://badges.gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen.svg)](https://gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 ### Ohne Raspberry Pi
 
@@ -48,8 +97,7 @@ Wenn du zunächst keinen Raspberry Pi kaufen möchtest kannst du trozdem zu Haus
 1. Programmiere online mit Scratch, die Programmiersprache die wir benutzt haben, um Pong und Minecraft zu hacken ([https://scratch.mit.edu/projects/editor/](https://scratch.mit.edu/projects/editor/))
 	* du brauchst nur Firefox, Chrome und Flash
 	* [hier kannst du Scratch Step-by-Step lernen ](https://scratch.mit.edu/projects/editor/?tip_bar=getStarted)
-	* [Es gib auch eine Offline Version](https://scratch.mit.edu/scratch2download/)
-	* wenn du einen älteren Computer hast kannst du auch [Scratch 1.4](https://scratch.mit.edu/scratch_1.4/) installieren
+	* die Scratch Version die wir im Kurs verwendet haebn ist [Scratch 1.4](https://scratch.mit.edu/scratch_1.4/) i
 	* du wirst viele Beispiele online finden
 	* happy programming!
 
@@ -63,39 +111,16 @@ Wenn du zunächst keinen Raspberry Pi kaufen möchtest kannst du trozdem zu Haus
 	* [Code.org](https://code.org/)
 	* [Codeacademy.org](https://www.codecademy.com/)
 
-#### Mit deinem tablet
+	
+### Mit dem Pi
 
-Du kannst auch weiter machen mit deinem Tablet. 
-
-1. [Lade Scratch Jr. herunter](http://www.scratchjr.org/)
-2. Es gibt das normale Scratch als i-pad Version --> [Pyrokee](https://itunes.apple.com/us/app/pyonkee/id905012686?mt=8)
-3. Fang an!
+Stecke die SD Karte aus dem Kurs in den Pi. 
 
 
-##Fortgeschrittenen Kurse
+#### Clone das ganze Repository
 
-Wir bieten weiterführende Kurse an wie: 
+Solltest du dieses Repository noch nicht geclont haben, öffne das Termianl und schreibe folgende Zeile und besetätige durch die Enter Taste
 
-* Roboter Workshop (Folgeworkshop von Minecraft Hacking)
-
-Einen Überlick wann die nächsten Kurse stattfinden findest du auf unserer [Webseite] (https://www.erfindergarden.de/kurse-workshops/). 
-
-## Hilfe 
-
-Für die jenigen die nicht jeden Freitag in unseren Pi Club in München kommen können bieten wir an ihnen über Gitter zu helfen. Mache dir einfach einen Github Account und stelle deine Fragen in unserem Gitter Channel. 
-
-[![Join the chat at https://gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen](https://badges.gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen.svg)](https://gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-
-
-##Pi Club
-
-Wenn du in München wohnst und die der Grundlagen Kurs gefallen hast, kannst du immer Freitags von 17 bis 19 Uhr in den Pi Club kommen. Der Monatsbeitrag beträgt 25 € zzgl. Mwst. und 50€ Aufnahmebeitrag. 
-
-
-## Clone das ganze Repository
-
-Öffne dein Terminal und schreibe ... 
 
 `git clone https://github.com/erfindergarden/minecraft-hacking.git`
 
