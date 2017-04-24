@@ -28,11 +28,16 @@ Alles was du brauchst um nach dem Kurs weiterzumachen findest du in der [Einkauf
 
 Schaue dir die [Anleitung](./lapdockpi) an. 
 
-### Projekt Beispiele
+### Coole Projekte
 
-*
+* Roboter
+* Farm Bot
+* Pi Arcade
 
 ### Pi Einführung
+
+* Hardware
+* verschiedene Versionen
 
 ### Pong Hacking
 
@@ -62,6 +67,11 @@ Solltest du noch nicht fertig geworden sein kannst du zu Hause die Aufgaben fert
 Im Kurs hast du gelernt Töne zu programmieren und man Töne endlos abspielen lassen kann.
 
 Als Hausaufgabe schreibe ein eigenes Musikstück mit Code. Solltest du noch keinen Pi haben kannst du auch Sonic Pi auf dem Mac oder deinem Windows Computer programmieren. 
+
+
+### GPIOS
+
+Link einfügen zu Schablone. 
 
 
 ### Scratch und GPIOS
@@ -144,13 +154,9 @@ Unter Settings in kano kannst du deine Tastaturbelegungen auf Deutsch ändern.
 
 Und mit einem [Tastatursticker ](http://www.amazon.de/Selbstkleben-Deutsche-Tastatur-Aufkleber-TastaturAufkleber/dp/B0050O4K5C/ref=pd_sim_sbs_201_4?ie=UTF8&dpID=31ijYeQClxL&dpSrc=sims&preST=_AC_UL160_SR160%2C160_&refRID=1J1A4ZD3M4SX3HV9JPDT)kannst du dir eine Deutsche Tastatur auf die Tasten kleben.
 
-## Download
+## Autor
 
-* Entweder über "Download ZIP" rechts oben
-* Oder direkt über git, ein gutes Tutorial dazu findest du hier: [try.github.io](https://try.github.io)
-
-##Lizenz
-Dieses Repository ist unter der Creative Commons Lizenz [CC-BY-SA] (http://creativecommons.org/licenses/by-sa/4.0/) lizensiert. 
+Andreas Kopp
 
 
 ## Kontakt
@@ -160,3 +166,10 @@ Schreibe uns jeder Zeit eine e-mail wenn du Fragen hast die in diesem Repository
 * Web: [www.erfindergarden.de](http://www.erfindergarden.de)
 * Email: [play@erfindergarden.de](mailto:play@erfindergarden.de)
 * Twitter: [@andreaskopp](https://twitter.com/andreaskopp) und [@jsphpl](https://twitter.com/jsphpl)
+
+
+
+##Lizenz
+Dieses Repository ist unter der Creative Commons Lizenz [CC-BY-SA 4.0] (http://creativecommons.org/licenses/by-sa/4.0/) lizensiert. 
+
+

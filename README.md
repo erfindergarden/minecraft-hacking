@@ -46,11 +46,13 @@ Dieser Workshop beinhaltet folgende Elemente des [Digital Making Curriculums](ht
 
 
 
-#Wie kann ich weitermachen
+# Wie kann ich weitermachen?
 
 Das wichtigste ist dass du Spaß hast und dir so schnell wie möglich einen Pi besorgst und ein mit einem kleinen eigene Projekt anfängst. Am besten du kaufst schon einen Pi vor dem Kurs und kannst dann gleich zu Hause weiter machen. 
 
-## Hardware und Software?
+## Hardware und Software
+
+Folgendes solltest du dir besorgen um zu Hause mit dem Pi weiterzuarbeiten. 
 
 * einen Raspberry Pi am besten einen Pi3
 * ein SD Karte mit einem Pi Betriebsystem (bekommst du im Kurs)
@@ -58,11 +60,13 @@ Das wichtigste ist dass du Spaß hast und dir so schnell wie möglich einen Pi b
 * ein HDMI Kabel
 * eine Tastatur
 * Eine Software zum SD Karten brennen wir [Etcher](https://etcher.io/)
+* ein paar Elektronikkombonenten wir Buttons, Leds, Widerstände
+* ein Breadboard
+* ein paar Steckbrücken
 
 
 
-
-##Fortgeschrittenen Workshop
+## Fortgeschrittenen Workshop
 
 Wir kommen regelmäßig zurück nach Berlin, Wien, Hamburg und Frankfurt am Main für unseren Roboter Workshop
 
@@ -70,14 +74,14 @@ Wir kommen regelmäßig zurück nach Berlin, Wien, Hamburg und Frankfurt am Main
 
 Die nächsten Termine findest du [hier] (https://www.erfindergarden.de/kurse-workshops/). 
 
-##Pi Club
+## Pi Club
 
 Wenn du in München wohnst und die der Grundlagen Kurs gefallen hast, kannst du immer Mittwoch von 18 bis 19.30 Uhr und Freitags von 17 bis 19 Uhr in den Pi Club kommen. Der Monatsbeitrag beträgt 25 € zzgl. Mwst. und 50€ Aufnahmebeitrag. 
 
-Anmeldungeformular hier. 
+Anmeldungsformular hier. 
 
 
-## Selbstständig
+## Selbstständig weiter machen
 
 
 ###Online Hilfe 
@@ -85,6 +89,40 @@ Anmeldungeformular hier.
 Für die jenigen die nicht Mittwoch und Freitags in unseren Pi Club in München kommen können bieten wir an ihnen über Gitter zu helfen. Mache dir einfach einen Github Account und stelle deine Fragen in unserem Gitter Channel. 
 
 [![Join the chat at https://gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen](https://badges.gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen.svg)](https://gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+
+### Mit dem Pi
+
+Stecke die SD Karte aus dem Kurs in den Pi. 
+
+
+Solltest du dieses Repository noch nicht geklont haben, öffne das Terminal und schreibe folgende Zeile und bestätige durch die Enter Taste
+
+
+`git clone https://github.com/erfindergarden/minecraft-hacking.git`
+
+Update den Code mit:
+
+`sudo git pull`
+
+resete deinen lokalen Veränderungen:
+
+`sudo git reset --hard`
+
+
+### Projekte für zu Hause
+
+Als erstes kannst du dich noch weiter auf Kano umsschauen und weiter machen mit:
+
+Make Minecraft
+Make an App
+
+
+Erste Anlaufstelle für weitere Projekte ist die [Raspberry Learning Resources ](https://www.raspberrypi.org/resources/learn/) und [Raspberry Making Resources](https://www.raspberrypi.org/resources/make/). Ein paar einfache Projkte zum Anfangen
+
+* [Push Button Stop Motion](https://www.raspberrypi.org/learning/push-button-stop-motion/) 
+* [Scratch Olympic Weightlifter](https://www.raspberrypi.org/learning/scratch-olympics-weightlifter/)
+
 
 
 ### Ohne Raspberry Pi
@@ -111,40 +149,6 @@ Wenn du zunächst keinen Raspberry Pi kaufen möchtest kannst du trotzdem zu Hau
 	* [Codeacademy.org](https://www.codecademy.com/)
 
 	
-### Mit dem Pi
-
-Stecke die SD Karte aus dem Kurs in den Pi. 
-
-
-#### Clone das ganze Repository
-
-Solltest du dieses Repository noch nicht geklont haben, öffne das Terminal und schreibe folgende Zeile und bestätige durch die Enter Taste
-
-
-`git clone https://github.com/erfindergarden/minecraft-hacking.git`
-
-Update den Code mit:
-
-`sudo git pull`
-
-resete deinen lokalen Veränderungen:
-
-`sudo git reset --hard`
-
-## Hilfe bei der Dokumentation 
-
-Wir würde uns freuen, wenn du uns bei der Dokumentation des Kurses hilfst und anderen Workshopteilnehmern hilfst das Setup zu Hause leichter hinzubekommen. Hier findet du eine Anleitung wie du ein Issue erstellst. Mit einem Issue sagst du uns wo wir noch etwas verbessern können. Wir schauen uns dass dann an und machen dann die Änderung. Dazu brauchst du erst mal keinen github account.    
-
---> [ein Issue erstellen](https://guides.github.com/features/issues/)
-
-Wenn du uns wirklich helfen willst dann forkst du unser repo klonst es auf deinem Computer local, machst deine änderungen und machst dann einen pull request. Dazu solltest du ein git Tutorial durchmachen und dir einen github account machen. Eine andere Möglichkeit wäre das repo zu forken dann die Änderungen zu machen und dann einen pull request zu machen.  
-
-* [How to contribute to open Source](https://guides.github.com/activities/contributing-to-open-source/)
-* versteht du nur Bahnhof, mach erst mal ein [Git tutorial](http://rogerdudler.github.io/git-guide/) durch
-* [Fork a Repo](https://help.github.com/articles/fork-a-repo/) 
-* [Pull request machen](https://help.github.com/articles/using-pull-requests/)
-* sehr zu empfehlen ist auch  [MacDown](http://macdown.uranusjr.com/) ein Open Source Markdown editor
-
 ##Autor
 
 Andreas Kopp
