@@ -1,4 +1,4 @@
-# Minecraft Hacking Raspberry Pi Grundlagen 
+# Minecraft Hacking Raspberry Pi Basics
 
 **HACK - MAKE - INVENT - SHARE**
 
@@ -14,11 +14,9 @@ Stand 24. April 2017
 
 Das sind die Kursmaterialien zum Minecraft Hacking Raspberry Pi Gundlagen Workshop vom #erfindergarden. Außerdem Tipps wie du zu Hause weitermachen kannst. 
 
-* Im Ordner [deutsch](./deutsch) haben wir allen Infos verlinkt
-* Dort findet du eine [Anleitung](./deutsch/lapdockpi.md) wie du deinen Kano und deinen Lapdock verbindest
-* und eine [Einkaufsliste](./deutsch/einkaufsliste.md) für das empfohlene Setup und auch Bezugsquellen für Zubehör
-* [worksheets](./deutsch/worksheets) enthält PDFs zum RasPi Setup, Linux Terminal, GPIO, Schaltkreis aus dem Workshop
-* Der Ordner [Code](./code) enthält die Python-Scripts und Scratch Scripts aus dem Kurs
+* Im Ordner [docs](./docs) findest du eine Einkaufsliste und ein Getting Started Guide sowie Worksheets aus dem Kurs
+* Der Ordner [code](./code) enthält die Python und Scratch Programme aus dem Kurs
+* Der Order [bonus_code](./bonus_code) findest du weitere Python Programme zum Minecraft Hacking
 
 ## Was wirst im Kurs machen
 
@@ -50,15 +48,16 @@ Dieser Workshop beinhaltet folgende Elemente des [Digital Making Curriculums](ht
 
 #Wie kann ich weitermachen
 
-Das wichtiste ist dass du Spaß hast und dir so schnell wie möglich einen Pi besorgst. Am besten du kaufst schon einen Pi vor dem Kurs und kannst dann gleich zu Hause weiter machen. 
+Das wichtigste ist dass du Spaß hast und dir so schnell wie möglich einen Pi besorgst und ein mit einem kleinen eigene Projekt anfängst. Am besten du kaufst schon einen Pi vor dem Kurs und kannst dann gleich zu Hause weiter machen. 
 
-## Was brauchst du um weiterzumachen?
+## Hardware und Software?
 
 * einen Raspberry Pi am besten einen Pi3
-* ein SD Karte mit einem Pi Betriesbsystem (bekommst du im Kurs
+* ein SD Karte mit einem Pi Betriebsystem (bekommst du im Kurs)
 * einen Bildschirm
 * ein HDMI Kabel
-* eine Tastatur 
+* eine Tastatur
+* Eine Software zum SD Karten brennen wir [Etcher](https://etcher.io/)
 
 
 
@@ -90,14 +89,14 @@ Für die jenigen die nicht Mittwoch und Freitags in unseren Pi Club in München 
 
 ### Ohne Raspberry Pi
 
-Wenn du zunächst keinen Raspberry Pi kaufen möchtest kannst du trozdem zu Hause weiter machen.
+Wenn du zunächst keinen Raspberry Pi kaufen möchtest kannst du trotzdem zu Hause weiter machen.
 
 #### Mit deinem Mac/Windows/Linux Pc
 
 1. Programmiere online mit Scratch, die Programmiersprache die wir benutzt haben, um Pong und Minecraft zu hacken ([https://scratch.mit.edu/projects/editor/](https://scratch.mit.edu/projects/editor/))
 	* du brauchst nur Firefox, Chrome und Flash
 	* [hier kannst du Scratch Step-by-Step lernen ](https://scratch.mit.edu/projects/editor/?tip_bar=getStarted)
-	* die Scratch Version die wir im Kurs verwendet haebn ist [Scratch 1.4](https://scratch.mit.edu/scratch_1.4/) i
+	* die Scratch Version die wir im Kurs verwendet haben ist [Scratch 1.4](https://scratch.mit.edu/scratch_1.4/) i
 	* du wirst viele Beispiele online finden
 	* happy programming!
 
@@ -119,7 +118,7 @@ Stecke die SD Karte aus dem Kurs in den Pi.
 
 #### Clone das ganze Repository
 
-Solltest du dieses Repository noch nicht geclont haben, öffne das Termianl und schreibe folgende Zeile und besetätige durch die Enter Taste
+Solltest du dieses Repository noch nicht geklont haben, öffne das Terminal und schreibe folgende Zeile und bestätige durch die Enter Taste
 
 
 `git clone https://github.com/erfindergarden/minecraft-hacking.git`
@@ -128,7 +127,7 @@ Update den Code mit:
 
 `sudo git pull`
 
-resete deinen lokalen veränderungen:
+resete deinen lokalen Veränderungen:
 
 `sudo git reset --hard`
 
@@ -138,7 +137,7 @@ Wir würde uns freuen, wenn du uns bei der Dokumentation des Kurses hilfst und a
 
 --> [ein Issue erstellen](https://guides.github.com/features/issues/)
 
-Wenn du uns wirklich helfen willst dann forkst du unser repo clonst es auf deinem Computer local, machst deine änderungen und machst dann einen pull request. Dazu solltest du ein git Tutorial durchmachen und dir einen github account machen. Eine andere möglichkeit wäre das repo zu forken dann die Änderungen zu machen und dann einen pull request zu machen.  
+Wenn du uns wirklich helfen willst dann forkst du unser repo klonst es auf deinem Computer local, machst deine änderungen und machst dann einen pull request. Dazu solltest du ein git Tutorial durchmachen und dir einen github account machen. Eine andere Möglichkeit wäre das repo zu forken dann die Änderungen zu machen und dann einen pull request zu machen.  
 
 * [How to contribute to open Source](https://guides.github.com/activities/contributing-to-open-source/)
 * versteht du nur Bahnhof, mach erst mal ein [Git tutorial](http://rogerdudler.github.io/git-guide/) durch
@@ -146,13 +145,19 @@ Wenn du uns wirklich helfen willst dann forkst du unser repo clonst es auf deine
 * [Pull request machen](https://help.github.com/articles/using-pull-requests/)
 * sehr zu empfehlen ist auch  [MacDown](http://macdown.uranusjr.com/) ein Open Source Markdown editor
 
-##Lizenz
+##Autor
 
-Dieses Repository ist unter der Creative Commons Lizenz [CC-BY-SA] (http://creativecommons.org/licenses/by-sa/4.0/) lizensiert. Das heißt du kannst unser Material benutzen und verändern solltest aber wenn du es nutzt schreiben, dass du es von uns hast und wieder dein Material mit CC-BY-SA lizensieren.
-
+Andreas Kopp
 
 ## Kontakt
 
 * Web: [www.erfindergarden.de](http://www.erfindergarden.de)
 * Email: [play@erfindergarden.de](mailto:play@erfindergarden.de)
 * Twitter: [@andreaskopp](https://twitter.com/andreaskopp) und [@jsphpl](https://twitter.com/jsphpl)
+
+##Lizenz
+
+Dieses Repository ist unter der Creative Commons Lizenz Attribution 4.0 Internatioal [CC-BY-SA 4.0] (http://creativecommons.org/licenses/by-sa/4.0/) lizensiert. Das heißt du kannst unser Material benutzen und verändern solltest aber wenn du es nutzt schreiben, dass du es von uns hast und wieder dein Material mit CC-BY-SA lizensieren.
+
+
+

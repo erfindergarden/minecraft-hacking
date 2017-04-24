@@ -1,7 +1,7 @@
 # Minecraft Hacking Raspberry Pi Grundlagen von erfindergarden 
 
 
-Stand 13. März 2016
+Stand 14. April 2017
 
 
 ---
@@ -14,9 +14,9 @@ Es kann passieren, dass deine Karte plötzlich nicht mehr funktioniert, mit folg
 
 * besorge dir eine neue SD Karte (mind. 8GB Class 10)
 * [Downloade] (http://www2.kano.me/downloads) das kano image oder ein anderes Raspberry Pi OS Image
-* Mac -> [ApplePiBaker] (http://www.tweaking4all.com/hardware/raspberry-pi/macosx-apple-pi-baker/I), Anleitung [hier](./imagebrennenmac.md) 
-* Windows -> [Win32 Disk Imager] (http://sourceforge.net/projects/win32diskimager/)
-* Linux -> im Terminal folgendes eingeben:  `sudo dd if=sdcard.img of=/dev/sdb`
+* Mac -> [ApplePiBaker] (http://www.tweaking4all.com/hardware/raspberry-pi/macosx-apple-pi-baker/I), Anleitung [hier](./imagebrennenmac.md)
+* Windows und Linux --> Etcher
+
 
 
 ### Einkaufsliste
@@ -29,6 +29,8 @@ Alles was du brauchst um nach dem Kurs weiterzumachen findest du in der [Einkauf
 Schaue dir die [Anleitung](./lapdockpi) an. 
 
 ### Projekt Beispiele
+
+*
 
 ### Pi Einführung
 
@@ -64,7 +66,8 @@ Als Hausaufgabe schreibe ein eigenes Musikstück mit Code. Solltest du noch kein
 
 ### Scratch und GPIOS
 
-Das Aufsteckboard das wir im Kurs verwendet haben findest du bei [Ryanteck](https://ryanteck.uk/). Normalerweise verwenden wir dazu unseren TNT Button.   
+Das Aufsteckboard das wir im Kurs verwendet haben findest du bei [Ryanteck](https://ryanteck.uk/). Normalerweise verwenden wir dazu unseren TNT Button. 
+  
 
 #### TNT Circle 
 
