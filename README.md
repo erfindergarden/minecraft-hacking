@@ -84,7 +84,7 @@ Anmeldungsformular hier.
 ## Selbstständig weiter machen
 
 
-###Online Hilfe 
+### Online Hilfe 
 
 Für die jenigen die nicht Mittwoch und Freitags in unseren Pi Club in München kommen können bieten wir an ihnen über Gitter zu helfen. Mache dir einfach einen Github Account und stelle deine Fragen in unserem Gitter Channel. 
 
@@ -159,7 +159,7 @@ Andreas Kopp
 * Email: [play@erfindergarden.de](mailto:play@erfindergarden.de)
 * Twitter: [@andreaskopp](https://twitter.com/andreaskopp) und [@jsphpl](https://twitter.com/jsphpl)
 
-##Lizenz
+## Lizenz
 
 Dieses Repository ist unter der Creative Commons Lizenz Attribution 4.0 Internatioal [CC-BY-SA 4.0] (http://creativecommons.org/licenses/by-sa/4.0/) lizensiert. Das heißt du kannst unser Material benutzen und verändern solltest aber wenn du es nutzt schreiben, dass du es von uns hast und wieder dein Material mit CC-BY-SA lizensieren.
 
