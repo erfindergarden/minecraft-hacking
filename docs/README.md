@@ -1,4 +1,4 @@
-# Minecraft Hacking Raspberry Pi Grundlagen von erfindergarden 
+# Minecraft Hacking Raspberry Pi Grundlagen   
 
 
 Stand 14. April 2017
@@ -13,15 +13,9 @@ Stand 14. April 2017
 Es kann passieren, dass deine Karte plötzlich nicht mehr funktioniert, mit folgenden Schritten kannst du dir eine neue machen:
 
 * besorge dir eine neue SD Karte (mind. 8GB Class 10)
-* [Downloade] (http://www2.kano.me/downloads) das kano image oder ein anderes Raspberry Pi OS Image
-* Mac -> [ApplePiBaker] (http://www.tweaking4all.com/hardware/raspberry-pi/macosx-apple-pi-baker/I), Anleitung [hier](./imagebrennenmac.md)
-* Windows und Linux --> Etcher
+* Downloade das [Kano Image](http://www2.kano.me/downloads) oder ein anderes Raspberry Pi OS Image wie [Raspian Jesse](https://www.raspberrypi.org/downloads/raspbian/) 
+* Hole dir das Programm [Etcher](https://etcher.io/)
 
-
-
-### Einkaufsliste
-
-Alles was du brauchst um nach dem Kurs weiterzumachen findest du in der [Einkaufsliste](./einkaufsliste.md).
 
 
 ### Lapdock mit dem Pi verbinden
@@ -32,7 +26,7 @@ Schaue dir die [Anleitung](./lapdockpi) an.
 
 * Roboter
 * Farm Bot
-* Pi Arcade
+* Retropi
 
 ### Pi Einführung
 
@@ -41,6 +35,7 @@ Schaue dir die [Anleitung](./lapdockpi) an.
 
 ### Pong Hacking
 
+Zu Hause kannst du 
 
 ### Minecraft Hacking 
 
@@ -64,9 +59,11 @@ Solltest du noch nicht fertig geworden sein kannst du zu Hause die Aufgaben fert
 
 ### Musik Coden
 
-Im Kurs hast du gelernt Töne zu programmieren und man Töne endlos abspielen lassen kann.
+Im Workshop hast du gelernt Töne zu programmieren und man Töne endlos abspielen lassen kann. Sollten wir Sonic Pi nicht behandelt haben
 
 Als Hausaufgabe schreibe ein eigenes Musikstück mit Code. Solltest du noch keinen Pi haben kannst du auch Sonic Pi auf dem Mac oder deinem Windows Computer programmieren. 
+
+[http://sonic-pi.net/](http://sonic-pi.net/)
 
 
 ### GPIOS
@@ -100,6 +97,7 @@ Wichtig ist, dass du deinen Code immer unter dem Ordner MyAdventures abspeichers
 
 Mehr Code findest du [hier](http://eu.wiley.com/WileyCDA/Section/id-823690.html).
 
+
 ## More Minecraft Worlds
 
 Die Pi Minecraft Edition nutzt das gleiche Level Format wie die Minecraft Pocket Edition [here](https://drive.google.com/open?id=0B3iYmii-HJ7TeE5MS3BqM2hwaFE) kannst du mehr Welten finden wie Hogwarts, Avatar Hometree, Circular Town, Farm Village, Spleef Arena und mehr. Weitere Welten im [Minecraft Forum](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/mcpe-wip-maps).
@@ -111,23 +109,33 @@ Lade die Welten herunter und kopiere sie in den Ordner ```minecraftWorlds```. Um
 Du kannst deine mit dem Pi programmierten Welten dann in deiner Pocket Edition auf dein i-pad oder i-phone kopieren. In [diesem Video](https://www.youtube.com/watch?v=muB7SDl6158) wird die gezeigt wie das geht. Für Mac empfehle ich dir den i-explorer. 
 
 
-## LINKS und Bücher
+## Links, Magazine und Bücher
 
-Es gibt mittlerweile viele Zeitschriften, Bücher und Internetseiten die die helfen weiter mit dem Pi zu arbeiten. Ich empfehle dir erstmal, mit dem weiterzuarbeiten was wir im Kurs gemacht haben und dann auf der Raspberry Pi Seite eine Tutorial durch zu machen. Sehr gut finde ich auch ein Magazin zu abonnieren und jeden Monat durch interessante Projekte inspiriert zu werden.  
+Es gibt mittlerweile viele Zeitschriften, Bücher und Internetseiten die die helfen weiter mit dem Pi zu arbeiten. Ich empfehle dir erstmal, mit dem weiterzuarbeiten was wir im Kurs gemacht haben und dann auf der Raspberry Pi Seite eine Tutorial durch zu machen. Sehr gut finde ich auch das MagPi Magazin. Mittlweile gibt es das Magazin sogar auf Deutsch. 
 
 * [Ressources in Englisch auf der Raspberry Pi Webseite] (https://www.raspberrypi.org/resources/)
-* das MagPi Magazin (Englisch)
+* Projekte die ich empfehlen kann: 
+	* 
 
-## Quellen
+* [das MagPi Magazin](https://www.chip-kiosk.de/chip/magpi)
 
-Aufsteckboards und Zubehör kannst du bei folgenden Händlern erwerben. Ich würde dir als Einstieg den Traffichat empfehlen oder den Explorer Hat und dann einen Sense Hat oder eine Kamera. Leider scheint es da ein paar Produktionsenpässe zu geben und das einzige Board was zur Zeit zur Verfügung steht ist der Traffic Hat. 
 
-* [Ryanteck](https://ryanteck.uk/)  
-	-> [Traffic Hat](https://ryanteck.uk/hats/1-traffichat-0635648607122.html) (9,30 €)
-* [seedstudio ](http://www.seeedstudio.com/depot/category_products?themes_id=1413)  
-* Adafruit 
-* [Pi Hut](http://thepihut.com/)
-* [Pimoroni](http://www.pimoroni.com/)
+## Einkaufsliste
+
+Alles was du brauchst um nach dem Kurs weiterzumachen findest du in der [Einkaufsliste](./einkaufsliste.md).
+
+## Wo Zubehör kaufen?
+
+Aufsteckboards und Zubehör wie Breadboards, Leds, Buttons und Motoren kannst du bei folgenden Händlern erwerben. 
+
+* Conrad (DE)
+* [Reichelt (DE)](https://www.reichelt.de/)
+* [Watterott (DE)](http://www.watterott.com/)
+* Amazon  
+* [exptech (DE)](http://www.exp-tech.de/)
+* [Ryanteck (GB)](https://ryanteck.uk/) 
+* [Pi Hut (GB)](http://thepihut.com/)
+* [Pimoroni (GB)](http://www.pimoroni.com/)
 
 ##FAQ
 
@@ -137,9 +145,9 @@ Siehe oben
 
 **Wie wird der Pi mit Strom versorgt?**
 
-Der Pi wird über das USB Kabel im Lapdock mit Strom versorgt. Bei meinem Setup ist es das Kabel mit dem Lila Tape drauf. 
+Der Pi wird über das USB Kabel im Lapdock mit Strom versorgt. 
 
-**Ich sehe nichts auf meinem Bilschirm?**
+**Ich sehe nichts auf meinem Bildschirm?**
 
 Checke ob du die SD Karte eingesteckt hast und alle Kabel verbunden hast und ob sie fest in ihren Plätzen stecken. 
 
@@ -161,7 +169,7 @@ Andreas Kopp
 
 ## Kontakt
 
-Schreibe uns jeder Zeit eine e-mail wenn du Fragen hast die in diesem Repository nicht benantwortet wuden. 
+Schreibe uns jeder Zeit eine e-mail wenn du Fragen hast die in diesem Repository nicht beantwortet wurden. 
 
 * Web: [www.erfindergarden.de](http://www.erfindergarden.de)
 * Email: [play@erfindergarden.de](mailto:play@erfindergarden.de)

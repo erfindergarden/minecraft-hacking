@@ -14,7 +14,7 @@ Stand 24. April 2017
 
 Das sind die Kursmaterialien zum Minecraft Hacking Raspberry Pi Gundlagen Workshop vom #erfindergarden. Außerdem Tipps wie du zu Hause weitermachen kannst. 
 
-* Im Ordner [docs](./docs) findest du eine Einkaufsliste und ein Getting Started Guide sowie Worksheets aus dem Kurs
+* Im Ordner [docs](./docs) findest du eine Einkaufsliste und ein Getting Started Guide sowie nochmal alles was wir im Kurs besprochen haben
 * Der Ordner [code](./code) enthält die Python und Scratch Programme aus dem Kurs
 * Der Order [bonus_code](./bonus_code) findest du weitere Python Programme zum Minecraft Hacking
 
@@ -40,6 +40,8 @@ Das sind die Kursmaterialien zum Minecraft Hacking Raspberry Pi Gundlagen Worksh
 * Wo ich online gute Tutorials zum weiter machen finde
 
 Dieser Workshop beinhaltet folgende Elemente des [Digital Making Curriculums](https://www.raspberrypi.org/curriculum/) der Raspberry Pi Foundation
+
+![](curriculum.png)
 
 * [Nutze Programmierkonstrukte um einfache Programme zu erstellen](https://www.raspberrypi.org/curriculum/programming/creator)
 * [Nutze einfache digitale und analoge Input und Output Komponenten ](https://www.raspberrypi.org/curriculum/physical-computing/creator)
