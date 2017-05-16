@@ -24,18 +24,25 @@ Schaue dir die [Anleitung](./lapdockpi) an.
 
 ### Coole Projekte
 
-* Roboter
-* Farm Bot
-* Retropi
+* [Magig Mirror](http://michaelteeuw.nl/post/84026273526/and-there-it-is-the-end-result-of-the-magic)
+* [Retropi](retropie.org.uk)
 
 ### Pi Einführung
 
-* Hardware
-* verschiedene Versionen
+* Arduino vs. Raspberry Pi vs. Microbit/Calliope
+* Hardware Pi 3
+
+
 
 ### Pong Hacking
 
-Zu Hause kannst du 
+Zu Hause kannst zu Hause nochmal im Browser Pong hacken. 
+
+[pong.kano.me](http://pong.kano.me/#)
+
+Oder du kannst auch weiter machen mit Pong Hacken und auch gleich Javascript lernen. 
+
+[www.codecademy.com/courses/kano-pong](https://www.codecademy.com/courses/kano-pong)
 
 ### Minecraft Hacking 
 
@@ -55,25 +62,88 @@ Folgende Aufgaben hast du im Kurs gemacht:
 * Minecraft - Challenge 12: Lava Trail
 * Minecraft - Challenge 13: Freeze
 
-Solltest du noch nicht fertig geworden sein kannst du zu Hause die Aufgaben fertig machen. Im Playground kannst du dann deine eigenen Programme schreiben und dir auch anzeigen wie der Code in Python aussehen würde. 
+Solltest du noch nicht fertig geworden sein kannst du zu Hause die Aufgaben fertig machen. Im Playground kannst du dann deine eigenen Programme schreiben und dir auch anzeigen lassen wie der Code in Python aussehen würde. 
 
 ### Musik Coden
 
-Im Workshop hast du gelernt Töne zu programmieren und man Töne endlos abspielen lassen kann. Sollten wir Sonic Pi nicht behandelt haben
+Im Workshop hast du gelernt Töne zu programmieren und man Töne endlos abspielen lassen kann. Sollten wir Sonic Pi nicht behandelt haben kannst du Sonic Pi einfach zu Hause ausprobieren. 
 
-Als Hausaufgabe schreibe ein eigenes Musikstück mit Code. Solltest du noch keinen Pi haben kannst du auch Sonic Pi auf dem Mac oder deinem Windows Computer programmieren. 
+Schreibe ein eigenes Musikstück mit Code. Solltest du noch keinen Pi haben kannst du auch Sonic Pi auf dem Mac oder deinem Windows Computer programmieren. 
 
 [http://sonic-pi.net/](http://sonic-pi.net/)
 
+### Scratch 
 
-### GPIOS
-
-Link einfügen zu Schablone. 
+Im Kurs haben wir zunächst Scratch gelernt und einen Controller programmiert und dann unser Sprite Explodieren lassen. Den Code dazu findest du unter [code](../code). 
 
 
-### Scratch und GPIOS
 
-Das Aufsteckboard das wir im Kurs verwendet haben findest du bei [Ryanteck](https://ryanteck.uk/). Normalerweise verwenden wir dazu unseren TNT Button. 
+### GPIOS (General Input Output, Allzweg Ein- und Ausgabe)
+
+Alle aktuellen Raspberry Pi Versionen haben 40 Pins. Davon sind 8 Ground Pins also Erde oder 0V, 2 sind 5V und 2 sind 3V3 sowie 26 davon sind Input und Output pins und zwei sind spezielle EEPROM pins. Eine genauere Beschreibung jedes einzelnen Pins findest du bei [pinout.xyz](https://pinout.xyz/pinout). Wir nutzen in unserem Workshops immer die GPIO Nummmerierung und nicht Physical Nummerierung.  
+
+![](gpio-pins-pi2.jpg)
+
+Physical Nummerierung
+
+![](physical-pin-numbers.png)
+
+GPIO Nummerierung
+
+![](gpio-numbers-pi2.png)
+
+
+Sie dienen dazu Inputs wie Buttons, Sensoren und Outputs wie LEDS und Motoren mit dem Pi zu verbinden.  
+
+Einen einfacher Schaltkreis wäre etwa ein LED an einer 3.3V Batterie und einem Schalter dazwischen. 
+
+![](simplecircuit.png)
+
+![](simplecircuit2.png)
+
+Wenn wir einen GPIO Pin als Output nutzen ersetzt der Pi sowohl den Schalter als auch die 3.3V Batterie. Den Schalter machen wir dann mit unserem Code. Damit die LED nicht die vollen 3.3V abbekommt nutzen wir einen Widerstand. 
+
+Den Widerstand kannst du folgendermaßen ausrechnen.
+Ersmal musst du Wissen welche LED du anschließt. Nehmen wir mal an wir verbinden eine Rote LED. 
+
+Strom PI (I): 3.3V
+Strom LED (I): 2.0V
+Spannung LED (U): 20mA
+
+R = U/I = Strom/ Spannung =  3.3V - 2.0 V/20 mA = 68 Ohm
+
+
+
+[Widerstandsrechner](http://led.linear1.org/1led.wiz)
+
+Laut Ohmschen gesetzt würde ein 68 Ohm Widerstand. Aber die meisten Tutorials verwenden einen Widerstand zwschen 270 und 330 Ohm.
+
+![](led_widerstand.png)
+
+
+
+
+###GPIOS + Scratch
+
+Als erstes haben wir im Kurs gezeigt wie man einen Button an den Pi anschließt. Wir nutzen immer die letzten beiden Pins. 
+
+#### Scratch + Button 
+
+![](arcade-button.jpg)
+  
+ ![](schematic-button.jpg) 
+ 
+ 
+ Der Scratch Code dazu ist der folgende: 
+ 
+ 
+ 
+ #### Scratch + LED
+ 
+ 
+ 
+ 
+ 
   
 
 #### TNT Circle 

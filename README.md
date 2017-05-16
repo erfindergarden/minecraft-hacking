@@ -12,7 +12,7 @@ Stand 24. April 2017
 
 ---
 
-Das sind die Kursmaterialien zum Minecraft Hacking Raspberry Pi Gundlagen Workshop vom #erfindergarden. Außerdem Tipps wie du zu Hause weitermachen kannst. 
+Das sind die Kursmaterialien zum Minecraft Hacking Raspberry Pi Grundlagen Workshop vom #erfindergarden. Außerdem Tipps wie du zu Hause weitermachen kannst. 
 
 * Im Ordner [docs](./docs) findest du eine Einkaufsliste und ein Getting Started Guide sowie nochmal alles was wir im Kurs besprochen haben
 * Der Ordner [code](./code) enthält die Python und Scratch Programme aus dem Kurs
@@ -33,7 +33,7 @@ Das sind die Kursmaterialien zum Minecraft Hacking Raspberry Pi Gundlagen Worksh
 * Was ein Computerprogramm ist und die wichtigste Programmierkonstrukte 
 * Wie man Minecraft mit Kano/Scratch hacken kann
 * (Verstehe wie man Music Coded mit Sonic Pi)
-* Inputs wie Buttons und Outputs wie Leds mit Scratch steuern
+* Inputs wie Buttons und Outputs wie LEDs mit Scratch steuern
 * Linux Filestruktur
 * Wichtige Command Line Befehle
 * Dein erstes Python Programm zu schreiben
@@ -50,7 +50,7 @@ Dieser Workshop beinhaltet folgende Elemente des [Digital Making Curriculums](ht
 
 # Wie kann ich weitermachen?
 
-Das wichtigste ist dass du Spaß hast und dir so schnell wie möglich einen Pi besorgst und ein mit einem kleinen eigene Projekt anfängst. Am besten du kaufst schon einen Pi vor dem Kurs und kannst dann gleich zu Hause weiter machen. 
+Das wichtigste ist dass du Spaß hast und dir so schnell wie möglich einen Pi besorgst und mit einem kleinen eigenen Projekt anfängst. Am besten du kaufst schon einen Pi vor dem Kurs und kannst dann gleich zu Hause weiter machen. 
 
 ## Hardware und Software
 
@@ -62,7 +62,7 @@ Folgendes solltest du dir besorgen um zu Hause mit dem Pi weiterzuarbeiten.
 * ein HDMI Kabel
 * eine Tastatur
 * Eine Software zum SD Karten brennen wir [Etcher](https://etcher.io/)
-* ein paar Elektronikkombonenten wir Buttons, Leds, Widerstände
+* ein paar Elektronik Komponenten wir Buttons, LEDs, Widerstände
 * ein Breadboard
 * ein paar Steckbrücken
 
@@ -78,7 +78,7 @@ Die nächsten Termine findest du [hier] (https://www.erfindergarden.de/kurse-wor
 
 ## Pi Club
 
-Wenn du in München wohnst und die der Grundlagen Kurs gefallen hast, kannst du immer Mittwoch von 18 bis 19.30 Uhr und Freitags von 17 bis 19 Uhr in den Pi Club kommen. Der Monatsbeitrag beträgt 25 € zzgl. Mwst. und 50€ Aufnahmebeitrag. 
+Wenn du in München wohnst und die der Grundlagen Kurs gefallen hast, kannst du immer Mittwoch von 18 bis 19.30 Uhr und Freitags von 17 bis 19 Uhr in den Pi Club kommen. Der Monatsbeitrag beträgt 25 € zzgl. MwSt.. und 50€ Aufnahmebeitrag. 
 
 Anmeldungsformular hier. 
 
@@ -114,13 +114,15 @@ resete deinen lokalen Veränderungen:
 
 ### Projekte für zu Hause
 
-Als erstes kannst du dich noch weiter auf Kano umsschauen und weiter machen mit:
+Als erstes kannst du dich noch weiter auf Kano umschauen und weiter machen mit:
 
-Make Minecraft
+In Make Minecraft protypen und dann den python code in den TNT Button Code pasten
 Make an App
+Make Art
+Kano Code
 
 
-Erste Anlaufstelle für weitere Projekte ist die [Raspberry Learning Resources ](https://www.raspberrypi.org/resources/learn/) und [Raspberry Making Resources](https://www.raspberrypi.org/resources/make/). Ein paar einfache Projkte zum Anfangen
+Erste Anlaufstelle für weitere Projekte ist die [Raspberry Learning Resources ](https://www.raspberrypi.org/resources/learn/) und [Raspberry Making Resources](https://www.raspberrypi.org/resources/make/). Ein paar einfache Projekte zum Anfangen
 
 * [Push Button Stop Motion](https://www.raspberrypi.org/learning/push-button-stop-motion/) 
 * [Scratch Olympic Weightlifter](https://www.raspberrypi.org/learning/scratch-olympics-weightlifter/)
@@ -150,10 +152,6 @@ Wenn du zunächst keinen Raspberry Pi kaufen möchtest kannst du trotzdem zu Hau
 	* [Code.org](https://code.org/)
 	* [Codeacademy.org](https://www.codecademy.com/)
 
-	
-##Autor
-
-Andreas Kopp
 
 ## Kontakt
 
