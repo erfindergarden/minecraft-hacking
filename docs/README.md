@@ -74,7 +74,7 @@ Schreibe ein eigenes Musikstück mit Code. Solltest du noch keinen Pi haben kann
 
 ### Scratch 
 
-Im Kurs haben wir zunächst Scratch gelernt und einen Controller programmiert und dann unser Sprite Explodieren lassen. Den Code dazu findest du unter [code](../code). 
+Im Kurs haben wir zunächst Scratch gelernt und einen Controller programmiert und dann unser Sprite explodieren lassen. Den Code dazu findest du unter [code](../code). 
 
 
 
@@ -104,7 +104,7 @@ Einen einfacher Schaltkreis wäre etwa ein LED an einer 3.3V Batterie und einem 
 Wenn wir einen GPIO Pin als Output nutzen ersetzt der Pi sowohl den Schalter als auch die 3.3V Batterie. Den Schalter machen wir dann mit unserem Code. Damit die LED nicht die vollen 3.3V abbekommt nutzen wir einen Widerstand. 
 
 Den Widerstand kannst du folgendermaßen ausrechnen.
-Ersmal musst du Wissen welche LED du anschließt. Nehmen wir mal an wir verbinden eine Rote LED. 
+Ersmal musst du Wissen welche LED du anschließt. Nehmen wir mal an wir verbinden eine rote LED. 
 
 Strom PI (I): 3.3V
 Strom LED (I): 2.0V
@@ -134,21 +134,27 @@ Als erstes haben wir im Kurs gezeigt wie man einen Button an den Pi anschließt.
  ![](schematic-button.jpg) 
  
  
- Der Scratch Code dazu ist der folgende: 
+ Scratch Code einfügen
  
  
  
- #### Scratch + LED
+#### Scratch + LED
+ 
+![](breadboard-led.jpg)
+ ![](schematic-led.jpg)
  
  
+ Scratch Code einfügen 
  
- 
- 
-  
 
-#### TNT Circle 
+#### Scratch + Button + LED
 
-Am Endes des Kurses habe ich dir noch kurz gezeigt wir mit dem Drücken eines Buttons einen TNT Circle erstellt. 
+![](button+led-breadboard.jpg)
+![](button+led-schematic.jpg)  
+
+#### TNT Button/Circle 
+
+Am Endes des Kurses habe ich dir noch kurz gezeigt wir mit dem Drücken eines Buttons einen TNT Button und einen Circle erstellt. 
 
 Den Code dazu findest du unter [Code](./code) 
 
@@ -163,7 +169,7 @@ Das passwort ist kano.
 
 Dann öffnet sich der Editor. Mit dem kleinen Rädchen kannst du den Code ausführen und mit ```Ctrl + C``` kannst du in stoppen.
 
-Wichtig ist, dass du deinen Code immer unter dem Ordner MyAdventures abspeicherst mit der Endung .py und Minecraft offen hast, wenn du den Code ausführst. 
+Wichtig ist, dass du deinen Code immer unter dem Ordner Code abspeicherst mit der Endung .py und Minecraft offen hast, wenn du den Code ausführst. 
 
 Mehr Code findest du [hier](http://eu.wiley.com/WileyCDA/Section/id-823690.html).
 
@@ -232,14 +238,11 @@ Unter Settings in kano kannst du deine Tastaturbelegungen auf Deutsch ändern.
 
 Und mit einem [Tastatursticker ](http://www.amazon.de/Selbstkleben-Deutsche-Tastatur-Aufkleber-TastaturAufkleber/dp/B0050O4K5C/ref=pd_sim_sbs_201_4?ie=UTF8&dpID=31ijYeQClxL&dpSrc=sims&preST=_AC_UL160_SR160%2C160_&refRID=1J1A4ZD3M4SX3HV9JPDT)kannst du dir eine Deutsche Tastatur auf die Tasten kleben.
 
-## Autor
-
-Andreas Kopp
 
 
 ## Kontakt
 
-Schreibe uns jeder Zeit eine e-mail wenn du Fragen hast die in diesem Repository nicht beantwortet wurden. 
+Schreibe uns jeder Zeit eine e-mail wenn du Fragen hast die in diesem Repository nicht beantwortet wurden.
 
 * Web: [www.erfindergarden.de](http://www.erfindergarden.de)
 * Email: [play@erfindergarden.de](mailto:play@erfindergarden.de)
@@ -247,7 +250,7 @@ Schreibe uns jeder Zeit eine e-mail wenn du Fragen hast die in diesem Repository
 
 
 
-##Lizenz
+## Lizenz
 Dieses Repository ist unter der Creative Commons Lizenz [CC-BY-SA 4.0] (http://creativecommons.org/licenses/by-sa/4.0/) lizensiert. 
 
 
