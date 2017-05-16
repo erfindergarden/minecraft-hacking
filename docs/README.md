@@ -108,7 +108,7 @@ Ersmal musst du Wissen welche LED du anschließt. Nehmen wir mal an wir verbinde
 
 Strom PI (I): 3.3V
 Strom LED (I): 2.0V
-Spannung LED (U): 20mA
+Spannung LED (U): 20mA  
 
 R = U/I = Strom/ Spannung =  3.3V - 2.0 V/20 mA = 68 Ohm
 
@@ -116,11 +116,20 @@ R = U/I = Strom/ Spannung =  3.3V - 2.0 V/20 mA = 68 Ohm
 
 [Widerstandsrechner](http://led.linear1.org/1led.wiz)
 
-Laut Ohmschen gesetzt würde ein 68 Ohm Widerstand. Aber die meisten Tutorials verwenden einen Widerstand zwschen 270 und 330 Ohm.
-
 ![](led_widerstand.png)
 
+Laut Ohmschen gesetzt würde ein 68 Ohm Widerstand. 
 
+In dem Fall ist uns aber unser GPIO Pin wichtiger und der verträgt aximal 16mA und wird idealerweise zwischen 3 und 8mA betrieben wird. Insgesamt sollten an allen Pins nicht mehr als 
+
+Strom PI (I): 3.3V
+Strom LED (I): 2.0V
+Spannung Pin (U): 3 bis 8 mA
+
+
+R = U/I = Strom/ Spannung =  3.3V - 2.0 V/ U = 220 bis 470 Ohm
+
+Daraus resultiert also ein Widerstand zwischen 220 und 470 Ohm. 
 
 
 ###GPIOS + Scratch
