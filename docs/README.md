@@ -222,6 +222,12 @@ Aufsteckboards und Zubehör wie Breadboards, Leds, Buttons und Motoren kannst du
 * [Pi Hut (GB)](http://thepihut.com/)
 * [Pimoroni (GB)](http://www.pimoroni.com/)
 
+Austria
+
+* [Cyberport](https://www.cyberport.at/)
+* [Semaf](https://electronics.semaf.at)
+* 
+
 ##FAQ
 
 **Wie schließe ich meinen Lapdock an?**
@@ -255,6 +261,8 @@ Schreibe uns jeder Zeit eine e-mail wenn du Fragen hast die in diesem Repository
 
 * Web: [www.erfindergarden.de](http://www.erfindergarden.de)
 * Email: [play@erfindergarden.de](mailto:play@erfindergarden.de)
+* Andreas [andreas@erfindergarden.de](mailto:andreas@erfindergarden.de)
+* Joseph 
 * Twitter: [@andreaskopp](https://twitter.com/andreaskopp) und [@jsphpl](https://twitter.com/jsphpl)
 
 
