@@ -16,6 +16,12 @@ Es kann passieren, dass deine Karte plötzlich nicht mehr funktioniert, mit folg
 * Downloade das [Kano Image](http://www2.kano.me/downloads) oder ein anderes Raspberry Pi OS Image wie [Raspian Jesse](https://www.raspberrypi.org/downloads/raspbian/) 
 * Hole dir das Programm [Etcher](https://etcher.io/)
 
+###SD Karten aus Kurs
+
+Kano 3.7 + erfindergarden git repo + inkscape + minecrafter schift - inkscape to open scad extension + openscad --> here
+
+Jesse + inkscape + openscad --> here
+
 
 
 ### Lapdock mit dem Pi verbinden

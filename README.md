@@ -25,7 +25,7 @@ Das sind die Kursmaterialien zum Minecraft Hacking Raspberry Pi Grundlagen Works
 * ein TNT-Button mit Scratch Programmieren
 * Terminal Quest
 * einen TNT-Button mit Minecraft verbinden 
-* Musik coden
+(* Musik coden)
 
 ## Was wirst du lernen 
 
@@ -129,16 +129,15 @@ Erste Anlaufstelle für weitere Projekte ist die [Raspberry Learning Resources ]
 
 
 
-### Ohne Raspberry Pi
+#### Ohne Raspberry Pi
 
 Wenn du zunächst keinen Raspberry Pi kaufen möchtest kannst du trotzdem zu Hause weiter machen.
 
-#### Mit deinem Mac/Windows/Linux Pc
 
-1. Programmiere online mit Scratch, die Programmiersprache die wir benutzt haben, um Pong und Minecraft zu hacken ([https://scratch.mit.edu/projects/editor/](https://scratch.mit.edu/projects/editor/))
+1. Programmiere online mit Scratch 2.0, die Programmiersprache die wir benutzt haben, um Pong und Minecraft zu hacken ([https://scratch.mit.edu/projects/editor/](https://scratch.mit.edu/projects/editor/))
 	* du brauchst nur Firefox, Chrome und Flash
 	* [hier kannst du Scratch Step-by-Step lernen ](https://scratch.mit.edu/projects/editor/?tip_bar=getStarted)
-	* die Scratch Version die wir im Kurs verwendet haben ist [Scratch 1.4](https://scratch.mit.edu/scratch_1.4/) i
+	* die Scratch Version die wir im Kurs verwendet haben ist [Scratch 1.4](https://scratch.mit.edu/scratch_1.4/) kannst du auch downloaden
 	* du wirst viele Beispiele online finden
 	* happy programming!
 
@@ -151,6 +150,13 @@ Wenn du zunächst keinen Raspberry Pi kaufen möchtest kannst du trotzdem zu Hau
 
 	* [Code.org](https://code.org/)
 	* [Codeacademy.org](https://www.codecademy.com/)
+
+#### Minecraft Pi API mit der Minecraft Vollversion
+
+Dazu brauchst du das Raspberry Pi Juice Plugin auf deinem Server und die Libraries für Pyhton und Java 
+
+   * [Rasperry Pi Juice Plugin](https://dev.bukkit.org/projects/raspberryjuice)
+   * [Libraries](https://dev.bukkit.org/projects/raspberryjuice) 
 
 
 ## Kontakt
