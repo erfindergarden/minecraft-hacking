@@ -13,8 +13,6 @@ mcdrawing = minecraftstuff.MinecraftDrawing(mc)
 import mcpi.block as block
 
 radius = 10
-
-radius = 10
 button = Button(25)
 
 while True:
