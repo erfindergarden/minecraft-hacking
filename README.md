@@ -2,7 +2,6 @@
 
 **HACK - MAKE - INVENT - SHARE**
 
-[![Join the chat at https://gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen](https://badges.gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen.svg)](https://gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Shortlink: [git.io/minecraft-hacking](git.io/minecraft-hacking)
 
