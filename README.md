@@ -4,9 +4,9 @@
 
 [![Join the chat at https://gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen](https://badges.gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen.svg)](https://gitter.im/erfindergarden/Minecraft-Hacking-Raspberry-Pi-Grundlagen?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
- 
+Shortlink: [git.io/minecraft-hacking](git.io/minecraft-hacking)
 
-*For English Version see here: [English](./english)*  
+*For English Version see here: [English](README.en.md)*  
 
 Stand 9. Juli 2017
 
@@ -18,7 +18,9 @@ Das sind die Kursmaterialien zum Minecraft Hacking Raspberry Pi Grundlagen Works
 * Der Ordner [code](./code) enthält die Python und Scratch Programme aus dem Kurs
 * Der Order [bonus_code](./bonus_code) findest du weitere Python Programme zum Minecraft Hacking
 
-## Was wirst im Kurs machen
+## Inhaltsverzeichnis
+
+### Was wirst im Kurs machen
 
 * Pong hacken
 * Minecraft hacken
@@ -27,7 +29,7 @@ Das sind die Kursmaterialien zum Minecraft Hacking Raspberry Pi Grundlagen Works
 * einen TNT-Button mit Minecraft verbinden 
 (* Musik coden)
 
-## Was wirst du lernen 
+### Was wirst du lernen 
 
 * Was ein Raspberry Pi ist, warum man ihn braucht und wie man ihn zum laufen bringt
 * Was ein Computerprogramm ist und die wichtigste Programmierkonstrukte 
@@ -48,7 +50,7 @@ Dieser Workshop beinhaltet folgende Elemente des [Digital Making Curriculums](ht
 
 
 
-# Wie kann ich weitermachen?
+### Wie kann ich weitermachen?
 
 Das wichtigste ist dass du Spaß hast und dir so schnell wie möglich einen Pi besorgst und mit einem kleinen eigenen Projekt anfängst. Am besten du kaufst schon einen Pi vor dem Kurs und kannst dann gleich zu Hause weiter machen. 
 
