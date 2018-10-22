@@ -7,20 +7,21 @@ Shortlink: [git.io/minecraft-hacking](git.io/minecraft-hacking)
 
 *For English Version see here: [English](README.en.md)*  
 
-Stand 9. Juli 2017
+Stand 16. März 2018
 
 ---
 
-Das sind die Kursmaterialien zum Minecraft Hacking Raspberry Pi Grundlagen Workshop vom #erfindergarden. Außerdem Tipps wie du zu Hause weitermachen kannst. 
+Das sind die Kursmaterialien zum Minecraft Hacking Raspberry Pi Grundlagen Workshop des #erfindergardens. Außerdem Tipps wie du zu Hause weitermachen kannst. 
 
-* Im Ordner [docs](./docs) findest du eine Einkaufsliste und ein Getting Started Guide sowie nochmal alles was wir im Kurs besprochen haben
-* Der Ordner [code](./code) enthält die Python und Scratch Programme aus dem Kurs
-* Der Order [bonus_code](./bonus_code) findest du weitere Python Programme zum Minecraft Hacking
+
 
 ## Inhaltsverzeichnis
 
+
+
 ### Was wirst im Kurs machen
 
+* 
 * Pong hacken
 * Minecraft hacken
 * ein TNT-Button mit Scratch Programmieren
